@@ -1,0 +1,15 @@
+# Rime user dictionary
+#@/db_name	wubixinshiji
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	6
+#@/user_id	macbookpro
+edm 	须	c=1 d=0.99005 t=6
+enu 	鼠	c=1 d=0.985112 t=6
+ggtt 	五笔	c=1 d=0.980199 t=6
+mghh 	同步	c=1 d=1 t=6
+tp 	管	c=1 d=0.995012 t=6
+uaxn 	新世纪	c=1 d=0.97531 t=6
+encedtp 	须管	c=0 d=0.0995012 t=6
+enceetp 	鼠须管	c=0 d=0.0995012 t=6
+encened 	鼠须	c=0 d=0.099005 t=6

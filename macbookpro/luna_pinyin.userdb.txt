@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	6
+#@/user_id	macbookpro
+shi ji 	世紀	c=3 d=2.97025 t=6
+sou gou 	搜狗	c=1 d=0.995012 t=6
+xin 	新	c=2 d=1.96042 t=6
