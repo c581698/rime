@@ -3,6 +3,13 @@
 # 作者: 郭斌勇 <guobinyong@qq.com>
 
 patch:
+  ascii_composer/good_old_caps_lock: true # 若为 true， Caps 只切换大小写
+  ascii_composer/switch_key:
+    Caps_Lock: commit_code                # Caps 键
+    Shift_L: commit_code                  # 左 Shift，切换中英文
+    Shift_R: commit_code                  # 右 Shift，切换中英文
+    Control_L: noop                       # 左 Control，屏蔽该切换键
+    Control_R: noop                       # 右 Control，屏蔽该切换键
 #  switcher: # 切换输入法的配置块
 #    hotkeys: # 快捷键；可以设置多个快捷键，这样每个快捷键都生效; grave 是键盘上的 `
 #      - "Control+grave"

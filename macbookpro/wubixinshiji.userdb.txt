@@ -2,14 +2,2312 @@
 #@/db_name	wubixinshiji
 #@/db_type	userdb
 #@/rime_version	1.7.3
-#@/tick	6
+#@/tick	1920
 #@/user_id	macbookpro
-edm 	须	c=1 d=0.99005 t=6
-enu 	鼠	c=1 d=0.985112 t=6
-ggtt 	五笔	c=1 d=0.980199 t=6
-mghh 	同步	c=1 d=1 t=6
-tp 	管	c=1 d=0.995012 t=6
-uaxn 	新世纪	c=1 d=0.97531 t=6
-encedtp 	须管	c=0 d=0.0995012 t=6
-enceetp 	鼠须管	c=0 d=0.0995012 t=6
-encened 	鼠须	c=0 d=0.099005 t=6
+aahw 	工具	c=1 d=1 t=172
+adhh 	项目	c=1 d=1 t=410
+adlg 	基辅	c=1 d=1 t=1519
+adm 	项	c=1 d=1 t=277
+adny 	藏	c=1 d=1 t=61
+adw 	基	c=1 d=1 t=1027
+adwb 	其他	c=2 d=1.00135 t=1732
+adwe 	期	c=1 d=1 t=662
+adwr 	斯	c=1 d=1 t=233
+aedi 	功耗	c=1 d=1 t=467
+aerv 	散热	c=1 d=1 t=1617
+aes 	菜	c=1 d=1 t=1740
+aet 	散	c=1 d=1 t=1616
+aeul 	菜单	c=1 d=1 t=22
+afs 	某	c=2 d=1.09537 t=1951
+agjs 	苹果	c=5 d=1.00381 t=1611
+aisg 	东西	c=1 d=1 t=779
+ajdr 	草原	c=1 d=1 t=63
+ajfj 	草	c=3 d=1.88786 t=862
+ajgd 	蓝天	c=22 d=3.80864 t=1007
+ajt 	蓝	c=1 d=1 t=381
+ajtl 	蓝	c=1 d=1 t=1557
+ak 	或	c=1 d=1 t=1540
+akf 	革	c=7 d=3.71004 t=1318
+akft 	或者	c=2 d=1.82283 t=1510
+am 	黄	c=1 d=1 t=1131
+amgk 	黄豆	c=1 d=1 t=500
+amw 	黄	c=2 d=1.85214 t=1057
+aqsg 	匹配	c=3 d=1.63586 t=1882
+ar 	区	c=1 d=1 t=1668
+arke 	区别	c=3 d=1.21896 t=1848
+arq 	欧	c=1 d=1 t=82
+aru 	艾	c=1 d=1 t=1636
+avrq 	切换	c=2 d=1.00027 t=1918
+awtg 	花生	c=1 d=1 t=1086
+awx 	花	c=2 d=1.1097 t=1038
+awyk 	共享	c=4 d=2.44328 t=1904
+ayu 	蒂	c=1 d=1 t=509
+b 	了	c=20 d=4.99376 t=1800
+bb 	子	c=2 d=1.00664 t=1866
+bc 	取	c=1 d=1 t=386
+bdsw 	随机	c=1 d=1 t=503
+bg 	卫	c=1 d=1 t=893
+bgjt 	卫星	c=1 d=1 t=41
+bgsw 	耳机	c=2 d=1.02732 t=854
+bm 	出	c=3 d=1.99001 t=1943
+bmgo 	出来	c=1 d=1 t=356
+bn 	也	c=6 d=2.33523 t=1751
+bnjg 	也是	c=1 d=1 t=1910
+bnsv 	也要	c=1 d=1 t=1576
+bqad 	隐藏	c=1 d=1 t=1845
+br 	孤	c=1 d=1 t=1002
+brwr 	阿拉伯	c=1 d=1 t=243
+bs 	阿	c=1 d=1 t=1116
+bsk 	阿	c=1 d=1 t=201
+buce 	联通	c=1 d=1 t=237
+budy 	联	c=1 d=1 t=543
+bukg 	陪	c=2 d=1.99005 t=1720
+bush 	联想	c=1 d=1 t=1168
+bwbn 	除了	c=1 d=1 t=1211
+bwek 	附加	c=1 d=1 t=412
+c 	以	c=1 d=1 t=253
+cccc 	又	c=1 d=1 t=1033
+ccnf 	双层	c=1 d=1 t=621
+ccy 	双	c=2 d=1.03996 t=1016
+cdce 	能不能	c=3 d=1.02624 t=1649
+cdgn 	参与	c=2 d=1.91851 t=1802
+cdjv 	参照	c=1 d=1 t=1589
+cdov 	参数	c=2 d=1.52994 t=1949
+ce 	能	c=2 d=1.15961 t=751
+ceqt 	熊猫	c=1 d=1 t=1624
+cf 	对	c=3 d=1.19161 t=1740
+cff 	圣	c=1 d=1 t=1683
+cfxx 	对比	c=1 d=1 t=58
+cgfc 	驱动	c=3 d=2.09908 t=428
+cgyg 	验证	c=1 d=1 t=1862
+cm 	观	c=1 d=1 t=434
+cmhk 	观点	c=1 d=1 t=433
+cqin 	鸡汤	c=1 d=1 t=973
+cyj 	蚤	c=2 d=1.66034 t=1618
+d 	在	c=19 d=3.78116 t=1960
+db 	顾	c=1 d=1 t=85
+dcg 	码	c=2 d=1.00522 t=1105
+dd 	大	c=4 d=2.65339 t=1792
+ddc 	套	c=1 d=1 t=488
+ddhk 	大战	c=2 d=1.30882 t=1621
+ddih 	大小	c=1 d=1 t=1855
+ddjg 	大师	c=1 d=1 t=1018
+ddov 	大唐	c=1 d=1 t=529
+de 	胡	c=1 d=1 t=992
+def 	有	c=1 d=1 t=262
+df 	夺	c=1 d=1 t=1920
+dg 	三	c=6 d=1.19319 t=1730
+dga 	研	c=1 d=1 t=1618
+dgfq 	三无	c=15 d=1.47836 t=1760
+dgip 	感觉	c=1 d=1 t=45
+dgj 	硬	c=1 d=1 t=1181
+dgte 	硬盘	c=8 d=5.04576 t=421
+dguq 	三次	c=1 d=1 t=717
+dgwt 	硬件	c=2 d=1.75201 t=468
+dhce 	不能	c=1 d=1 t=1903
+dhdh 	存在	c=2 d=1.00176 t=1873
+dhjg 	不是	c=1 d=1 t=679
+dhjg 	还是	c=1 d=1 t=1896
+dhkf 	否	c=1 d=1 t=1881
+dhmj 	否则	c=1 d=1 t=1518
+dhqe 	破解	c=4 d=1.51746 t=1531
+dht 	夏	c=1 d=1 t=115
+dhwy 	存储	c=1 d=1 t=1846
+dhxf 	在线	c=5 d=1.50331 t=1631
+djb 	厚	c=1 d=1 t=623
+djoa 	百度	c=1 d=1 t=43
+djpy 	厚礼	c=1 d=1 t=34
+dlfn 	三国志	c=7 d=4.32197 t=1805
+dluf 	奋斗	c=2 d=1.00222 t=1771
+dm 	面	c=2 d=1.0037 t=1580
+dmh 	布	c=1 d=1 t=480
+dmj 	而	c=1 d=1 t=1869
+dmj 	面	c=1 d=1 t=1866
+dmyg 	面试	c=1 d=1 t=1043
+dn 	成	c=4 d=1.05873 t=1694
+dnov 	盛唐	c=3 d=2.95551 t=1028
+dnwx 	成佛	c=1 d=1 t=1628
+dnyk 	成熟	c=1 d=1 t=1692
+dp 	达	c=4 d=1.06402 t=1693
+dq 	克	c=1 d=1 t=1258
+dqpg 	确定	c=1 d=1 t=1874
+dr 	原	c=1 d=1 t=1439
+drld 	原因	c=1 d=1 t=1912
+drww 	原价	c=1 d=1 t=721
+dsce 	不可能	c=1 d=1 t=907
+dtb 	邦	c=1 d=1 t=1600
+du 	磁	c=3 d=2.00065 t=215
+dute 	磁盘	c=4 d=2.97758 t=1682
+dwjq 	春晚	c=1 d=1 t=1257
+dwt 	秦	c=13 d=4.39327 t=1319
+dx 	龙	c=5 d=2.8148 t=1899
+dy 	太	c=1 d=1 t=1161
+dyoa 	态度	c=1 d=1 t=737
+e 	有	c=6 d=2.3167 t=1569
+eb 	服	c=2 d=1.59452 t=971
+ebqn 	服饰	c=1 d=1 t=865
+ec 	肥	c=1 d=1 t=796
+edm 	须	c=2 d=0.99005 t=1920
+ee 	月	c=1 d=1 t=139
+eeig 	月光	c=1 d=1 t=1076
+efsg 	脚本	c=1 d=1 t=156
+egc 	县	c=1 d=1 t=257
+eh 	用	c=9 d=3.35856 t=1827
+ehgo 	用来	c=1 d=1 t=1861
+ehif 	用法	c=1 d=1 t=1814
+ehyn 	用户	c=2 d=1.1028 t=1417
+ek 	加	c=4 d=1.01678 t=1858
+ekaa 	加工	c=1 d=1 t=1709
+ekdj 	加厚	c=1 d=1 t=879
+ekhg 	加上	c=2 d=1.12307 t=1962
+ektb 	脱口秀	c=1 d=1 t=1021
+en 	力	c=1 d=1 t=78
+enu 	鼠	c=2 d=0.985112 t=1920
+epc 	受	c=1 d=1 t=1679
+epd 	爱	c=1 d=1 t=601
+epwt 	受伤	c=1 d=1 t=1690
+etkk 	服务器	c=2 d=1.24414 t=1545
+eudy 	朕	c=24 d=7.32357 t=1410
+ewgj 	办理	c=1 d=1 t=967
+fagg 	霸王	c=1 d=1 t=1805
+fb 	地	c=1 d=1 t=1741
+fbar 	地区	c=1 d=1 t=1143
+fblt 	地图	c=2 d=1.07502 t=1705
+fc 	去	c=1 d=1 t=749
+fcdy 	动态	c=3 d=1.13977 t=1805
+fce 	动	c=1 d=1 t=1063
+fcfm 	云南	c=1 d=1 t=582
+fciy 	云游	c=1 d=1 t=933
+fcrf 	支持	c=1 d=1 t=1672
+fcte 	云盘	c=2 d=1.21225 t=413
+fctg 	运行	c=5 d=2.9218 t=1948
+fcu 	云	c=2 d=1.00019 t=1807
+fcu 	去	c=1 d=1 t=1729
+fdsv 	需要	c=6 d=3.15896 t=1861
+ff 	土	c=1 d=1 t=260
+ffi 	款	c=1 d=1 t=809
+ffuk 	墙	c=1 d=1 t=969
+fg 	二	c=1 d=1 t=726
+fgh 	十	c=3 d=1.5104 t=753
+fguq 	二次	c=1 d=1 t=707
+fhbc 	趣	c=1 d=1 t=1315
+fhhk 	起点	c=1 d=1 t=389
+fhjf 	越野	c=1 d=1 t=1861
+fhr 	赵	c=1 d=1 t=321
+fhrq 	真的	c=1 d=1 t=1121
+fhu 	走	c=1 d=1 t=952
+fhvk 	超	c=1 d=1 t=291
+fhw 	真	c=4 d=1.99355 t=1619
+fifa 	都江堰	c=2 d=1.956 t=339
+figo 	未来	c=7 d=3.48945 t=235
+fii 	未	c=1 d=1 t=649
+fjdq 	坦克	c=4 d=2.29653 t=1893
+fjoa 	进度	c=1 d=1 t=1713
+fjp 	进	c=1 d=1 t=1399
+fkhk 	露	c=2 d=1.9802 t=1101
+fkue 	彭	c=1 d=1 t=211
+fkuk 	嘉	c=1 d=1 t=1190
+flf 	雷	c=1 d=1 t=1009
+fljn 	雷电	c=6 d=1.07466 t=1003
+flpy 	雷神	c=7 d=0.335477 t=1010
+fmrc 	南瓜	c=2 d=1.64726 t=1081
+fmsb 	南极	c=3 d=1.11672 t=1194
+fmy 	坝	c=1 d=1 t=38
+fnog 	专业	c=1 d=1 t=15
+fnr 	声	c=1 d=1 t=328
+fnu 	卖	c=1 d=1 t=1673
+fp 	过	c=1 d=1 t=1900
+fpad 	过期	c=3 d=2.79616 t=1447
+fptk 	过程	c=1 d=1 t=1858
+fpwg 	埃塞俄比亚	c=1 d=1 t=1764
+fq 	无	c=8 d=3.79829 t=1184
+fqai 	远东	c=1 d=1 t=1602
+fqbv 	无限	c=1 d=1 t=1857
+fqfd 	无需	c=1 d=1 t=1703
+fqpw 	无穷	c=2 d=1.71534 t=80
+fqqk 	无名	c=1 d=1 t=1133
+fqtk 	远程	c=3 d=2.06276 t=1669
+ft 	才	c=2 d=1.00499 t=1801
+ftih 	老婆	c=1 d=1 t=524
+ftip 	教学	c=1 d=1 t=897
+ftjb 	都	c=5 d=1.35148 t=1903
+ftux 	老弟	c=1 d=1 t=426
+ftx 	老	c=2 d=1.0382 t=961
+fwlt 	截图	c=1 d=1 t=593
+fwmj 	规则	c=1 d=1 t=1840
+fwwa 	替代	c=2 d=1.18452 t=1858
+fwy 	零	c=1 d=1 t=222
+g 	一	c=9 d=2.80127 t=1883
+gaaj 	开幕	c=1 d=1 t=1270
+gaid 	开源	c=2 d=1.06111 t=1824
+gaud 	开关	c=1 d=1 t=1853
+gavc 	开始	c=2 d=1.0319 t=912
+gc 	到	c=11 d=2.10998 t=1752
+gcf 	至	c=1 d=1 t=335
+gcg 	玛	c=1 d=1 t=508
+gd 	天	c=3 d=1.04065 t=1638
+gdfu 	环境	c=3 d=1.78738 t=1894
+gdgh 	天下	c=1 d=1 t=1183
+gdh 	环	c=1 d=1 t=1619
+gdrn 	天气	c=1 d=1 t=934
+ge 	表	c=1 d=1 t=1594
+gef 	青	c=1 d=1 t=62
+gege 	青青	c=1 d=1 t=65
+gelf 	静默	c=2 d=1.93239 t=1701
+gf 	于	c=3 d=1.00489 t=1916
+gfq 	玩	c=2 d=1.99005 t=1721
+ggdj 	一百	c=2 d=1.97531 t=289
+ggg 	王	c=3 d=1.03786 t=1140
+gggm 	一再	c=1 d=1 t=733
+ggsu 	一样	c=3 d=1.46096 t=1905
+ggtk 	一种	c=2 d=1.92774 t=1864
+ggtt 	五笔	c=2 d=0.980199 t=1920
+gguq 	一次	c=1 d=1 t=693
+ggwh 	一个	c=2 d=1.00183 t=1774
+ggws 	一体	c=2 d=1.97045 t=150
+ggxt 	一张	c=1 d=1 t=720
+gh 	下	c=6 d=1.69388 t=1895
+ghd 	正	c=2 d=1.01105 t=1071
+ghfl 	下载	c=4 d=1.03241 t=1304
+ghiv 	正当	c=1 d=1 t=1362
+ghmj 	正则	c=5 d=3.41557 t=521
+ghuq 	下次	c=2 d=1.00083 t=1760
+gi 	求	c=1 d=1 t=72
+gigi 	求救	c=1 d=1 t=380
+giy 	救	c=1 d=1 t=909
+gjek 	更加	c=1 d=1 t=1802
+gjf 	理	c=1 d=1 t=939
+gjr 	更	c=2 d=1.99005 t=455
+gjus 	更新	c=1 d=1 t=1798
+gkih 	整	c=1 d=1 t=680
+gkoa 	速度	c=2 d=1.12124 t=1292
+gkp 	带	c=1 d=1 t=1549
+gkwt 	事件	c=1 d=1 t=444
+gmf 	再	c=5 d=1.02904 t=1884
+gmgd 	珊瑚	c=1 d=1 t=628
+gmwh 	两个	c=2 d=1.21119 t=1765
+gmww 	两	c=1 d=1 t=1478
+gmy 	丽	c=1 d=1 t=207
+gn 	与	c=2 d=1.01434 t=1812
+gnpp 	与之	c=1 d=1 t=1789
+go 	来	c=6 d=1.05037 t=1964
+gog 	亚	c=1 d=1 t=1094
+gpq 	琬	c=1 d=1 t=534
+gqj 	列	c=9 d=5.363 t=1911
+gqx 	死	c=1 d=1 t=1075
+gria 	珠江	c=1 d=1 t=57
+gsjj 	末日	c=2 d=1.29376 t=525
+gsnt 	末尾	c=1 d=1 t=1544
+guck 	平台	c=1 d=1 t=648
+h 	上	c=7 d=1.57678 t=1750
+harn 	虚拟	c=1 d=1 t=1529
+hauy 	虎门	c=1 d=1 t=97
+haw 	虎	c=1 d=1 t=868
+haxn 	虚幻	c=1 d=1 t=1056
+hd 	非	c=1 d=1 t=1657
+hdip 	非常	c=2 d=1.9802 t=831
+hdiy 	非洲	c=3 d=2.1361 t=1767
+hg 	上	c=1 d=1 t=1538
+hgdm 	上面	c=1 d=1 t=1286
+hgh 	卡	c=3 d=1.11098 t=895
+hgit 	上海	c=4 d=3.93592 t=320
+hgmd 	上岸	c=1 d=1 t=972
+hh 	止	c=1 d=1 t=1528
+hhvi 	目录	c=1 d=1 t=1541
+hkkg 	点号	c=3 d=2.89489 t=1572
+hko 	点	c=1 d=1 t=1550
+hn 	卢	c=2 d=1.00022 t=1716
+hnd 	鼎	c=1 d=1 t=835
+htf 	睡	c=1 d=1 t=1701
+hto 	瞅	c=1 d=1 t=1672
+hw 	具	c=1 d=1 t=461
+hx 	此	c=7 d=2.19195 t=1680
+hxff 	此款	c=1 d=1 t=821
+hxtq 	此物	c=1 d=1 t=1110
+i 	不	c=31 d=7.27511 t=1906
+iagw 	满	c=1 d=1 t=943
+iakh 	满嘴	c=1 d=1 t=407
+iakh 	满足	c=1 d=1 t=1871
+iamm 	江山	c=1 d=1 t=1022
+iatm 	港币	c=1 d=1 t=129
+id 	尖	c=1 d=1 t=329
+idr 	源	c=2 d=1.05872 t=1864
+ie 	肖	c=1 d=1 t=522
+ifc 	法	c=1 d=1 t=1049
+ige 	清	c=1 d=1 t=40
+igxt 	光纤	c=1 d=1 t=212
+ih 	小	c=10 d=1.81435 t=1901
+ihc 	波	c=1 d=1 t=1793
+ihny 	小心	c=1 d=1 t=950
+ihoy 	小米	c=1 d=1 t=1017
+ihpg 	小写	c=1 d=1 t=1837
+ihyu 	小说	c=13 d=7.82497 t=1346
+ii 	水	c=3 d=1.02337 t=1139
+iith 	消息	c=1 d=1 t=1703
+iitj 	水利	c=1 d=1 t=333
+iiuw 	水冷	c=1 d=1 t=240
+ilr 	渐	c=1 d=1 t=379
+im 	油	c=2 d=1.05182 t=1674
+imya 	测试	c=2 d=1.00049 t=1665
+ipbj 	沈阳	c=1 d=1 t=1711
+ipkf 	堂	c=1 d=1 t=767
+ipkh 	常	c=1 d=1 t=209
+ipkm 	演员	c=1 d=1 t=1680
+ipkm 	赏	c=1 d=1 t=910
+ipnu 	学习	c=1 d=1 t=1820
+iptj 	觉得	c=1 d=1 t=1670
+ipw 	深	c=1 d=1 t=1153
+iqpg 	淘宝	c=3 d=2.98012 t=155
+irit 	激活	c=1 d=1 t=15
+irlg 	汽车	c=2 d=1.05727 t=1092
+itd 	活	c=1 d=1 t=681
+itfm 	海南	c=1 d=1 t=126
+itk 	洛	c=1 d=1 t=116
+itm 	澳	c=1 d=1 t=118
+ituy 	澳门	c=6 d=1.92177 t=1627
+itx 	海	c=3 d=1.25242 t=597
+iv 	当	c=2 d=1.99501 t=1648
+ivue 	当前	c=3 d=1.53076 t=1690
+iw 	没	c=1 d=1 t=47
+iwde 	没有	c=7 d=2.22405 t=1903
+iwx 	沦	c=1 d=1 t=353
+ix 	涨	c=1 d=1 t=1034
+iybm 	流出	c=2 d=1.0488 t=1103
+iyca 	游戏	c=8 d=1.80786 t=1159
+iyjg 	流量	c=2 d=1.00039 t=1682
+iyow 	洗衣粉	c=1 d=1 t=1369
+iysf 	游标	c=3 d=2.85941 t=1869
+iyto 	注释	c=1 d=1 t=1963
+iyty 	注入	c=1 d=1 t=423
+j 	是	c=29 d=6.12591 t=1871
+jafv 	暴雪	c=2 d=1.79852 t=1065
+jb 	最	c=3 d=1.02636 t=1807
+jbrg 	最后	c=1 d=0.101534 t=1808
+jbrp 	最近	c=1 d=1 t=56
+jbvb 	最好	c=1 d=1 t=1508
+jbwg 	最全	c=1 d=1 t=544
+jbxk 	最强	c=2 d=1.98511 t=363
+jcrf 	坚持	c=1 d=1 t=734
+je 	明	c=1 d=1 t=1905
+jefj 	明朝	c=1 d=1 t=541
+jf 	时	c=9 d=5.34377 t=1860
+jfd 	里	c=2 d=1.60957 t=1961
+jfkk 	显示器	c=1 d=1 t=1927
+jfwh 	时候	c=1 d=1 t=781
+jgdh 	是否	c=1 d=1 t=1875
+jggi 	是不	c=2 d=1.90937 t=1870
+jhkg 	冒号	c=1 d=1 t=1859
+jhrb 	申报	c=1 d=1 t=1128
+jj 	日	c=1 d=1 t=1894
+jmfg 	蚺	c=1 d=1 t=35
+jmhh 	帅	c=1 d=1 t=204
+jn 	电	c=1 d=1 t=432
+jney 	电脑	c=2 d=1.95123 t=1011
+jnib 	电池	c=2 d=1.00734 t=1156
+jnjy 	电影	c=2 d=1.40052 t=1256
+jnpy 	电视	c=1 d=1 t=1019
+jnyt 	电话	c=2 d=1.45841 t=851
+jofi 	显示	c=6 d=3.01481 t=1852
+johg 	显卡	c=4 d=3.63906 t=180
+jqr 	易	c=2 d=1.01434 t=1907
+js 	果	c=1 d=1 t=1607
+jssc 	果树	c=1 d=1 t=501
+jtg 	星	c=1 d=1 t=888
+jtkr 	监听	c=1 d=1 t=1668
+jydx 	蛟龙	c=1 d=1 t=477
+jyjg 	蝙蝠	c=1 d=1 t=1620
+jyk 	影	c=1 d=1 t=431
+jykt 	影响	c=2 d=1.99005 t=1432
+k 	中	c=2 d=1.01734 t=1070
+kb 	啊	c=4 d=1.02457 t=1738
+kc 	吧	c=1 d=1 t=985
+kcg 	吗	c=4 d=1.24737 t=1373
+kej 	别	c=1 d=1 t=980
+keww 	别人	c=1 d=1 t=349
+kgn 	号	c=2 d=1.03337 t=1551
+kh 	中	c=10 d=5.05867 t=1865
+khlg 	中国	c=4 d=1.10151 t=1704
+khny 	中心	c=1 d=1 t=1710
+khq 	跑	c=1 d=1 t=1696
+khqi 	跳	c=1 d=1 t=377
+khtc 	路径	c=3 d=2.27343 t=1719
+khtk 	路	c=1 d=1 t=968
+khv 	跟	c=2 d=1.00064 t=1716
+khx 	嘴	c=1 d=1 t=1379
+kjf 	哩	c=2 d=1.99005 t=1138
+kkdk 	器	c=1 d=1 t=1524
+kkqb 	咒怨	c=2 d=1.87372 t=366
+kkth 	品牌	c=10 d=1.24872 t=1755
+kkw 	咒	c=1 d=1 t=325
+kldn 	嗯	c=2 d=1.67032 t=755
+kmh 	吊	c=3 d=2.8606 t=1217
+kng 	哪	c=1 d=1 t=1376
+knh 	叫	c=1 d=1 t=344
+knx 	呢	c=1 d=1 t=860
+kos 	嘛	c=1 d=1 t=761
+ksh 	叮	c=2 d=1.99501 t=1646
+kthh 	川	c=1 d=1 t=374
+ktn 	吃	c=1 d=1 t=98
+kw 	只	c=3 d=1.18008 t=1872
+kwde 	只有	c=2 d=1.59156 t=1792
+kwf 	啥	c=1 d=1 t=48
+kwfk 	啥	c=1 d=1 t=1673
+kwjg 	只是	c=1 d=1 t=1936
+kxx 	哔	c=2 d=1.99005 t=1137
+l 	国	c=1 d=1 t=1384
+lfhf 	置	c=1 d=1 t=1280
+lfof 	墨	c=1 d=1 t=420
+lfom 	黜	c=4 d=2.64275 t=1898
+lfpt 	黑客	c=1 d=1 t=517
+lfq 	园	c=2 d=1.51171 t=1742
+lftj 	署	c=1 d=1 t=1354
+lfyw 	默认	c=6 d=2.51785 t=1856
+lggg 	国王	c=1 d=1 t=1746
+lgmw 	国内	c=2 d=1.62189 t=1526
+lgpg 	国家	c=2 d=1.5627 t=369
+lgqh 	国外	c=1 d=1 t=1744
+lgut 	国产	c=2 d=1.96561 t=1714
+lgwx 	国货	c=1 d=1 t=430
+lh 	四	c=1 d=1 t=867
+lhkt 	四川	c=3 d=1.41505 t=332
+lk 	回	c=1 d=1 t=746
+lkgk 	回事	c=1 d=1 t=429
+lktj 	回复	c=1 d=1 t=1397
+ln 	思	c=1 d=1 t=278
+lp 	连	c=2 d=1.02746 t=1216
+lpgb 	连击	c=1 d=1 t=498
+lpru 	连接	c=2 d=1.07847 t=1849
+lpxf 	连续	c=2 d=1.92312 t=1779
+lq 	罗	c=1 d=1 t=794
+lqyg 	鸭	c=2 d=1.99501 t=283
+lt 	图	c=1 d=1 t=338
+ltif 	输入法	c=1 d=1 t=9
+ltth 	图片	c=2 d=1.00138 t=1822
+ltwq 	图像	c=1 d=1 t=1819
+lwbm 	输出	c=3 d=1.80168 t=1850
+lwty 	输入	c=4 d=2.71981 t=1828
+ma 	曲	c=1 d=1 t=598
+mbts 	邮箱	c=1 d=1 t=1739
+md 	央	c=1 d=1 t=523
+meik 	崩溃	c=1 d=1 t=352
+mf 	周	c=2 d=1.01716 t=1189
+mfut 	财产	c=1 d=1 t=1127
+mghh 	同步	c=2 d=1 t=1920
+mgk 	同	c=2 d=1.96561 t=1892
+mgsu 	同样	c=1 d=1 t=1888
+mgww 	峡谷	c=1 d=1 t=583
+mgyy 	同方	c=1 d=1 t=465
+mj 	则	c=2 d=1.00032 t=1781
+mjq 	赐	c=1 d=1 t=538
+mmbw 	删除	c=2 d=1.02411 t=914
+mnbm 	崛	c=1 d=1 t=1612
+mnfh 	崛起	c=2 d=1.9802 t=1029
+mp 	迪	c=1 d=1 t=1095
+mqnu 	购买	c=4 d=1.16104 t=1751
+mriy 	网游	c=3 d=2.96042 t=299
+mrjq 	网易	c=2 d=1.0018 t=1295
+mrr 	网	c=2 d=1.80654 t=1310
+mruh 	网站	c=3 d=1.02498 t=1328
+mrxt 	网络	c=5 d=2.42652 t=1708
+mtkg 	账号	c=3 d=2.74334 t=1420
+mubn 	赚了	c=2 d=1.9802 t=1685
+muk 	赔	c=2 d=1.44486 t=752
+muv 	赚	c=1 d=1 t=1676
+muwi 	赔偿	c=1 d=1 t=579
+mwdh 	内存	c=8 d=2.78275 t=1929
+mwpw 	内容	c=3 d=2.23673 t=1853
+mww 	肉	c=2 d=1.9802 t=198
+nafi 	展示	c=3 d=2.24076 t=1929
+nagu 	收藏夹	c=1 d=1 t=424
+nalg 	民国	c=1 d=1 t=247
+nayg 	民主	c=2 d=1.12431 t=1374
+nctq 	怪物	c=1 d=1 t=387
+ndxt 	怀疑	c=1 d=1 t=1366
+nffl 	迅雷	c=1 d=1 t=216
+nfty 	导入	c=1 d=1 t=1391
+ngsu 	那样	c=1 d=1 t=766
+ngtc 	那么	c=3 d=1.37625 t=1772
+nguk 	情况	c=1 d=1 t=1506
+nh 	收	c=1 d=1 t=951
+nhj 	蛋	c=3 d=1.01318 t=1117
+nhnh 	蛋蛋	c=1 d=1 t=584
+nhwy 	收集	c=4 d=1.6994 t=1912
+nhxj 	收费	c=1 d=1 t=19
+njtg 	尼日利亚	c=1 d=1 t=1766
+nn 	已	c=1 d=1 t=602
+nnh 	书	c=1 d=1 t=73
+nnqn 	书包	c=1 d=1 t=1309
+nnux 	快递	c=1 d=1 t=1212
+nnxa 	羽绒	c=2 d=1.99501 t=1031
+nnxc 	已经	c=1 d=1 t=1930
+nrqv 	快捷键	c=1 d=1 t=1919
+nted 	必须	c=1 d=1 t=1467
+ntg 	性	c=1 d=1 t=1363
+ntud 	发送	c=1 d=1 t=1699
+nua 	屏	c=1 d=1 t=17
+nudu 	买	c=4 d=1.92623 t=1122
+nugc 	买到	c=1 d=0.743603 t=778
+nui 	飞	c=2 d=1.01168 t=1743
+nuk 	悦	c=1 d=1 t=581
+ny 	心	c=2 d=1.12809 t=991
+nyk 	惊	c=2 d=1.00677 t=1326
+o 	为	c=10 d=3.71617 t=1778
+oan 	炼	c=1 d=1 t=225
+ockg 	序号	c=2 d=1.9802 t=1748
+oft 	烤	c=1 d=1 t=1358
+oge 	精	c=1 d=1 t=199
+oh 	店	c=4 d=2.90477 t=760
+ohqg 	店铺	c=5 d=1.16483 t=1756
+oieh 	应用	c=1 d=1 t=1859
+oit 	炒	c=1 d=1 t=1085
+oitw 	应答	c=3 d=2.78921 t=1717
+oiyy 	应该	c=2 d=1.46301 t=1671
+olaw 	烟花	c=1 d=1 t=1123
+old 	烟	c=1 d=1 t=1353
+olk 	库	c=2 d=1.00074 t=1706
+oo 	火	c=1 d=1 t=507
+ooev 	火腿	c=1 d=1 t=195
+oqw 	炊	c=1 d=1 t=104
+orol 	数据库	c=3 d=1.83581 t=1726
+osi 	床	c=1 d=1 t=1713
+ossd 	磨	c=1 d=1 t=873
+oth 	炸	c=1 d=1 t=1621
+ovfj 	唐朝	c=1 d=1 t=533
+ovh 	唐	c=1 d=1 t=1134
+ovhk 	唐	c=2 d=1.2334 t=1387
+ovi 	康	c=1 d=1 t=232
+ovpb 	数字	c=3 d=2.851 t=1759
+ovrn 	数据	c=13 d=6.03733 t=1868
+ovrp 	数控	c=2 d=1.96561 t=1715
+owwg 	鹰	c=1 d=1 t=1191
+p 	这	c=8 d=2.06991 t=1811
+pa 	宽	c=1 d=1 t=1854
+paoa 	宽度	c=1 d=1 t=1852
+pb 	字	c=2 d=1.00557 t=1841
+pbaj 	字幕	c=2 d=1.99501 t=214
+pds 	寄	c=1 d=1 t=745
+pfq 	完	c=1 d=1 t=1721
+pge 	家	c=2 d=1.00335 t=1177
+pgk 	富	c=1 d=1 t=322
+pgn 	写	c=1 d=1 t=1559
+pgy 	宝	c=1 d=1 t=1623
+pgyr 	定义	c=2 d=1.8781 t=1852
+phn 	官	c=1 d=1 t=772
+pkk 	宫	c=1 d=1 t=1006
+pluw 	军阀	c=1 d=1 t=248
+pndc 	密码	c=13 d=8.72882 t=1442
+pp 	之	c=4 d=2.55896 t=300
+pt 	客	c=1 d=1 t=941
+puhc 	被	c=2 d=1.90032 t=620
+pujf 	实时	c=1 d=1 t=1264
+puo 	裤	c=2 d=1.99005 t=872
+puyd 	实诚	c=1 d=1 t=1089
+pvuf 	安装	c=17 d=7.89983 t=1720
+pvwg 	安全	c=1 d=1 t=571
+pvwg 	案例	c=1 d=1 t=1633
+pvwx 	初始化	c=1 d=1 t=413
+pw 	空	c=3 d=1.93422 t=1504
+pwa 	穿	c=1 d=1 t=1502
+pwst 	空格	c=1 d=1 t=1714
+pwwf 	宿舍	c=2 d=1.41271 t=802
+pwwf 	空值	c=6 d=5.58436 t=1475
+pxwu 	它们	c=1 d=1 t=684
+pyhh 	视频	c=1 d=1 t=1795
+pyj 	神	c=4 d=1.10652 t=1010
+pym 	视	c=1 d=1 t=1064
+pytn 	神秘	c=1 d=1 t=515
+q 	我	c=13 d=1.59145 t=1669
+qbn 	怨	c=1 d=1 t=326
+qdud 	乌克兰	c=2 d=1.43171 t=1688
+qedf 	解压	c=2 d=1.36788 t=1536
+qehj 	触	c=1 d=1 t=16
+qera 	触摸	c=1 d=1 t=445
+qesr 	解析	c=1 d=1 t=1878
+qeto 	解释	c=1 d=1 t=1804
+qfhw 	镇	c=1 d=1 t=900
+qgb 	钝	c=1 d=1 t=1115
+qhru 	外接	c=2 d=1.99501 t=179
+qiu 	尔	c=2 d=1.91393 t=510
+qk 	名	c=5 d=2.29342 t=1875
+qkxj 	免费	c=2 d=1.99005 t=977
+qlp 	链	c=1 d=1 t=911
+qlq 	锣	c=1 d=1 t=196
+qlru 	链接	c=1 d=1 t=1754
+qnuf 	包装	c=1 d=1 t=1210
+qnv 	包	c=2 d=1.34301 t=1736
+qnwy 	包含	c=2 d=1.01777 t=1731
+qnwy 	饮食	c=1 d=1 t=923
+qq 	多	c=7 d=1.32452 t=1783
+qqq 	金	c=1 d=1 t=378
+qqqq 	多多	c=1 d=1 t=609
+qqqq 	金	c=1 d=1 t=226
+qr 	铁	c=2 d=1.01234 t=930
+qrye 	锦衣	c=1 d=1 t=1930
+qtf 	猪	c=1 d=1 t=1706
+qtq 	狗	c=1 d=1 t=964
+qty 	狼	c=2 d=1.99005 t=1080
+quth 	镜片	c=2 d=1.99005 t=496
+quwq 	镜像	c=7 d=2.94566 t=1525
+qvgp 	键	c=1 d=1 t=443
+qvtg 	银行	c=1 d=1 t=1045
+qyip 	留学	c=1 d=1 t=801
+qyvm 	贸	c=1 d=1 t=128
+r 	的	c=70 d=15.295 t=1906
+rab 	皂	c=1 d=1 t=797
+rbgi 	拯救	c=1 d=1 t=1624
+rcbb 	瓜子	c=1 d=1 t=655
+rclk 	返回	c=5 d=2.46118 t=1804
+rdgc 	找不到	c=1 d=1 t=422
+rdm 	希	c=1 d=1 t=1615
+refp 	搜索	c=4 d=1.05254 t=1206
+rehc 	搜	c=1 d=1 t=75
+rgdm 	后面	c=2 d=1.33937 t=1798
+rgk 	后	c=9 d=3.69113 t=1879
+rhf 	看	c=1 d=1 t=1891
+rhj 	掉	c=1 d=1 t=1698
+rhjh 	爬虫	c=1 d=1 t=1349
+rhmq 	看见	c=1 d=1 t=1810
+rhoc 	排序	c=2 d=1.72979 t=1805
+rhqk 	排名	c=7 d=5.58804 t=1775
+rhrh 	看看	c=1 d=1 t=782
+rhyc 	爬	c=4 d=3.94561 t=1347
+rj 	提	c=1 d=1 t=385
+rjfi 	提示	c=1 d=1 t=1834
+rjsg 	提醒	c=1 d=1 t=775
+rmg 	抽	c=1 d=1 t=873
+rmuq 	抽奖	c=2 d=1.2334 t=1090
+rnde 	所有	c=5 d=2.76288 t=1897
+rnny 	所以	c=1 d=1 t=1400
+rona 	扩展	c=3 d=1.22441 t=1306
+rprm 	控制	c=2 d=1.43387 t=1848
+rpws 	探	c=1 d=1 t=1653
+rq 	换	c=7 d=3.43113 t=979
+rqqq 	拼多多	c=8 d=1.1771 t=1748
+rrbc 	抓取	c=1 d=1 t=1325
+rrck 	控制台	c=1 d=1 t=1591
+rrg 	拍	c=2 d=1.99005 t=983
+rrhy 	抓	c=1 d=1 t=1342
+rrr 	白	c=2 d=1.15567 t=1075
+rrsw 	拆机	c=1 d=1 t=200
+rry 	拆	c=1 d=1 t=58
+rs 	打	c=1 d=1 t=694
+rsga 	打开	c=1 d=1 t=1666
+rsmt 	打败	c=1 d=1 t=600
+rspb 	打字	c=1 d=1 t=931
+rthp 	挻	c=1 d=1 t=1088
+rtsw 	手机	c=5 d=1.16928 t=1749
+rtth 	挡箭牌	c=1 d=1 t=959
+rtvb 	挺好	c=1 d=1 t=302
+rtwt 	插件	c=1 d=1 t=153
+ru 	拉	c=3 d=1.11799 t=942
+rua 	拼	c=5 d=3.97398 t=653
+rukk 	接口	c=1 d=1 t=109
+rult 	拼图	c=1 d=1 t=281
+runh 	接收	c=1 d=1 t=1697
+rvga 	抛开	c=1 d=1 t=479
+rvra 	扫描	c=1 d=1 t=1661
+rvtg 	执行	c=13 d=6.58874 t=1901
+rwc 	投	c=1 d=1 t=1817
+rwqi 	拉舍尔	c=1 d=1 t=624
+rwyr 	投诉	c=1 d=1 t=1352
+rxbm 	指出	c=1 d=1 t=1470
+rxj 	指	c=1 d=1 t=448
+rxjg 	批量	c=1 d=1 t=913
+rxpg 	指定	c=1 d=1 t=1843
+rxqf 	指针	c=1 d=1 t=1853
+rxtm 	指向	c=1 d=1 t=1908
+rxyn 	指望	c=1 d=1 t=250
+ryw 	抗	c=1 d=1 t=252
+s 	要	c=7 d=2.5963 t=1797
+saaa 	模式	c=2 d=1.9802 t=1664
+sabb 	棋子	c=1 d=1 t=1126
+sasr 	模板	c=5 d=3.06664 t=1710
+sawx 	格式化	c=1 d=1 t=1838
+sb 	李	c=1 d=1 t=1026
+scbv 	权限	c=3 d=1.69865 t=1739
+scga 	树形	c=1 d=1 t=1828
+sfm 	楠	c=1 d=1 t=202
+sftq 	植物	c=1 d=1 t=1385
+sfyk 	标识	c=1 d=1 t=1865
+sg 	本	c=3 d=1.17116 t=1419
+sgj 	醒	c=1 d=1 t=279
+sglf 	配置	c=9 d=4.15298 t=1789
+sgrc 	西瓜	c=1 d=1 t=898
+sh 	相	c=1 d=1 t=1790
+shiv 	相当	c=3 d=1.00489 t=1915
+shmg 	相同	c=3 d=2.60554 t=1796
+shn 	想	c=2 d=1.0305 t=1462
+shwn 	相似	c=1 d=1 t=1815
+shwy 	相信	c=1 d=1 t=1175
+sj 	查	c=1 d=1 t=1596
+sjra 	查找	c=1 d=1 t=1966
+sjyq 	查询	c=3 d=2.48808 t=1958
+sk 	可	c=1 d=1 t=1842
+skce 	可能	c=1 d=1 t=1935
+skna 	可惜	c=2 d=1.0526 t=1736
+skny 	可以	c=4 d=1.23951 t=1959
+sks 	哥	c=3 d=1.13095 t=1601
+sksk 	哥	c=1 d=1 t=1192
+sksw 	歌	c=1 d=1 t=993
+smmv 	樱	c=1 d=1 t=1079
+so 	杰	c=1 d=1 t=1333
+sqaw 	桃花	c=1 d=1 t=1723
+sqt 	柳	c=1 d=1 t=1176
+src 	板	c=1 d=1 t=446
+srm 	棉	c=3 d=2.87077 t=892
+ss 	林	c=2 d=1.00064 t=1539
+ssf 	禁	c=1 d=1 t=1102
+staa 	格式	c=3 d=2.58568 t=1844
+staw 	梅花	c=1 d=1 t=1028
+su 	样	c=3 d=1.15006 t=1812
+sv 	根	c=2 d=1.00619 t=1359
+svf 	要	c=1 d=1 t=903
+svrn 	根据	c=1 d=1 t=1956
+svwy 	概念	c=1 d=1 t=1841
+sw 	机	c=3 d=1.00165 t=1530
+swcg 	检验	c=1 d=1 t=750
+swg 	检	c=1 d=1 t=1048
+swsa 	机械	c=7 d=1.03453 t=1712
+t 	和	c=3 d=2.16114 t=1839
+ta 	长	c=1 d=1 t=255
+taoa 	长度	c=1 d=1 t=1898
+tayw 	长夜	c=1 d=1 t=505
+tc 	么	c=1 d=1 t=1180
+tcde 	私有	c=1 d=1 t=1806
+td 	知	c=1 d=1 t=1714
+tda 	甜	c=1 d=1 t=1355
+tddc 	乱码	c=2 d=1.99501 t=70
+tel 	盘	c=1 d=1 t=96
+tfar 	特区	c=1 d=1 t=1164
+tffu 	等	c=1 d=1 t=1402
+tffy 	特	c=1 d=1 t=117
+tfgf 	等于	c=1 d=1 t=1459
+tfht 	午睡	c=1 d=1 t=629
+tfn 	毛	c=3 d=1.02673 t=1905
+tfno 	毯	c=1 d=1 t=630
+tfq 	先	c=2 d=1.00443 t=1873
+tftf 	毛毯	c=2 d=1.52466 t=618
+tftf 	等等	c=2 d=1.68386 t=1902
+tftq 	迁移	c=1 d=1 t=408
+tfyw 	午夜	c=2 d=1.94649 t=306
+tg 	生	c=2 d=1.19014 t=1371
+tgh 	征	c=2 d=1.00571 t=1252
+tgj 	重	c=2 d=1.00654 t=1279
+tglf 	重围	c=1 d=1 t=1278
+tgs 	行	c=7 d=2.27124 t=1869
+tguj 	生意	c=1 d=1 t=1381
+tgyn 	重启	c=1 d=1 t=1293
+thd 	自	c=3 d=1.89198 t=1606
+thfc 	自动	c=1 d=1 t=1335
+thg 	片	c=1 d=1 t=1821
+thgf 	牌	c=3 d=2.8606 t=1218
+thgj 	处理	c=2 d=1.1159 t=1823
+thmh 	自由	c=1 d=1 t=955
+thsg 	版本	c=4 d=2.98359 t=1553
+thtc 	怎么	c=3 d=1.49915 t=672
+tj 	得	c=1 d=1 t=966
+tjae 	复苏	c=1 d=1 t=516
+tjgc 	得到	c=1 d=1 t=1287
+tjh 	利	c=2 d=1.99501 t=337
+tjtf 	筛选	c=1 d=1 t=1857
+tjwg 	复合	c=1 d=1 t=1255
+tkad 	各项	c=4 d=3.87787 t=824
+tkae 	种菜	c=2 d=1.89137 t=1768
+tkfb 	种地	c=1 d=1 t=1603
+tkll 	种田	c=1 d=1 t=1642
+tkwu 	各位	c=1 d=1 t=776
+tleh 	备用	c=1 d=1 t=1644
+tmh 	币	c=1 d=1 t=1818
+tmo 	奥	c=1 d=1 t=1269
+tn 	乐	c=1 d=1 t=334
+tp 	管	c=1 d=0.995012 t=1920
+tpgj 	管理	c=1 d=1 t=1523
+ts 	条	c=6 d=3.04162 t=1952
+tswt 	条件	c=3 d=1.27794 t=1872
+tt 	笔	c=3 d=1.98777 t=1012
+tutb 	冬季	c=3 d=1.15185 t=1382
+tuu 	冬	c=2 d=1.22537 t=1268
+tvcw 	很难	c=1 d=1 t=1815
+tve 	很	c=1 d=1 t=1556
+tvf 	委	c=1 d=1 t=210
+twkg 	符号	c=1 d=1 t=168
+twpv 	答案	c=3 d=2.50028 t=493
+tx 	第	c=7 d=1.80224 t=1870
+txu 	每	c=1 d=1 t=1877
+txxy 	系统	c=6 d=1.7156 t=1735
+tycg 	入驻	c=4 d=1.16104 t=1754
+tysg 	笔记本	c=7 d=1.13999 t=1643
+tyuy 	入门	c=1 d=1 t=8
+ua 	并	c=3 d=1.25416 t=1946
+uaxn 	新世纪	c=1 d=0.97531 t=1920
+ubou 	塑料	c=1 d=1 t=1084
+ucg 	冯	c=1 d=1 t=1383
+uddy 	状态	c=1 d=1 t=1702
+udfq 	状元	c=1 d=1 t=1931
+udp 	送	c=1 d=1 t=133
+udtf 	状告	c=1 d=1 t=770
+udv 	券	c=2 d=1.96561 t=722
+ue 	前	c=1 d=1 t=1702
+uedm 	前面	c=3 d=1.63407 t=1793
+uefh 	新加坡	c=1 d=1 t=1395
+ueh 	瘦	c=1 d=1 t=197
+uehc 	瘦	c=1 d=1 t=193
+uejv 	剪	c=1 d=1 t=1794
+ufaj 	闭幕	c=1 d=1 t=1558
+uft 	闭	c=1 d=1 t=1382
+uftl 	装备	c=1 d=1 t=1799
+ugk 	半	c=1 d=1 t=1902
+ugl 	盖	c=1 d=1 t=619
+ugpg 	判定	c=1 d=1 t=825
+uhk 	丫	c=2 d=1.99501 t=1599
+uhkg 	站	c=2 d=1.99005 t=1303
+uhud 	丫头	c=1 d=1 t=1023
+uj 	间	c=1 d=1 t=101
+ujf 	音	c=2 d=1.10646 t=535
+ujfj 	章	c=1 d=1 t=167
+ujqd 	竟然	c=1 d=1 t=1119
+ukov 	总数	c=1 d=1 t=1926
+ukww 	部份	c=1 d=1 t=1575
+ulww 	单人	c=1 d=1 t=626
+umkk 	端口	c=9 d=6.94566 t=1665
+uqf 	将	c=5 d=2.76137 t=1863
+uqpb 	关键字	c=1 d=1 t=921
+uqpl 	将军	c=1 d=1 t=527
+usnn 	新书	c=3 d=2.84582 t=556
+usr 	新	c=4 d=1.98051 t=1910
+usub 	新闻	c=4 d=2.98734 t=1266
+utfg 	道士	c=1 d=1 t=514
+uthp 	道	c=1 d=1 t=263
+utk 	阁	c=1 d=1 t=1316
+utkk 	产品	c=18 d=1.62262 t=1758
+uttf 	首先	c=1 d=1 t=935
+uttg 	产生	c=2 d=1.9802 t=1909
+uuu 	立	c=1 d=1 t=1731
+uuyf 	阅读	c=1 d=1 t=1331
+uw 	准	c=2 d=1.02014 t=1091
+uwdq 	准确	c=1 d=1 t=1803
+uwy 	冷	c=2 d=1.01046 t=1005
+uwyg 	准	c=2 d=1.00086 t=1640
+ux 	北	c=1 d=1 t=1613
+uxjy 	背景	c=1 d=1 t=504
+uy 	门	c=1 d=1 t=889
+uyii 	凉水	c=1 d=1 t=334
+v 	发	c=1 d=1 t=479
+vb 	好	c=4 d=1.19922 t=1888
+vbqy 	好久	c=1 d=1 t=44
+vcc 	驽	c=1 d=1 t=1254
+vcvc 	妈妈	c=1 d=1 t=140
+veff 	退款	c=1 d=1 t=697
+veve 	姐姐	c=1 d=1 t=1042
+vewx 	退货	c=1 d=1 t=700
+vf 	寻	c=4 d=3.97017 t=1636
+vg 	建	c=2 d=1.13332 t=1705
+vgp 	建	c=1 d=1 t=1609
+vgx 	姨	c=1 d=1 t=869
+vgyy 	建议	c=1 d=1 t=1337
+vk 	如	c=2 d=1.23812 t=1764
+vkgh 	如下	c=1 d=1 t=1448
+vkjs 	如果	c=6 d=2.36001 t=1745
+vnt 	刀	c=1 d=1 t=1678
+vpq 	婉	c=1 d=1 t=86
+vqi 	姚	c=1 d=1 t=1388
+vsf 	嫖	c=1 d=1 t=704
+vt 	九	c=2 d=1.84789 t=1196
+vtnc 	妖怪	c=1 d=1 t=1533
+vtvv 	媳妇	c=1 d=1 t=390
+vtws 	群体	c=1 d=1 t=1053
+vvv 	女	c=1 d=1 t=1261
+vyv 	娘	c=1 d=1 t=1724
+w 	人	c=8 d=1.63447 t=1814
+wa 	代	c=3 d=1.06675 t=1770
+wadc 	代码	c=1 d=1 t=1427
+wagj 	代理	c=7 d=2.30364 t=1788
+waye 	袋	c=1 d=1 t=1213
+wb 	他	c=2 d=1.00607 t=1367
+wbwu 	他们	c=1 d=1 t=251
+wc 	公	c=1 d=1 t=1047
+wcn 	翁	c=1 d=1 t=1675
+wdah 	优雅	c=1 d=1 t=804
+wdt 	做	c=2 d=1.08543 t=1152
+wdtb 	优秀	c=1 d=1 t=829
+wfc 	会	c=3 d=1.99582 t=1862
+wfhg 	值	c=6 d=3.17114 t=1864
+wfk 	舍	c=1 d=1 t=491
+wflw 	传输	c=2 d=1.956 t=1681
+wftc 	什么	c=2 d=1.01364 t=1361
+wfty 	传入	c=1 d=1 t=1821
+wfxw 	传给	c=1 d=1 t=1865
+wg 	全	c=3 d=1.61463 t=1124
+wgc 	倒	c=1 d=1 t=1171
+wgdn 	合成	c=1 d=1 t=388
+wgeh 	使用	c=5 d=2.31831 t=1851
+wggo 	剑来	c=2 d=1.02833 t=1773
+wgi 	剑	c=5 d=1.02577 t=1290
+wgij 	剑	c=1 d=1 t=558
+wgkt 	合川	c=1 d=1 t=452
+wgmf 	假一赔十	c=3 d=1.9325 t=859
+wgpe 	便宜	c=1 d=1 t=371
+wgqk 	命名	c=1 d=1 t=274
+wgs 	余	c=1 d=1 t=506
+wgsp 	途	c=2 d=1.00571 t=1253
+wgvi 	登录	c=2 d=1.14957 t=1670
+wgwy 	全集	c=1 d=1 t=1900
+wgwy 	命令	c=10 d=2.93248 t=1899
+wh 	个	c=3 d=2.82878 t=485
+whnt 	修改	c=2 d=1.91851 t=1435
+wjjg 	但是	c=1 d=1 t=1453
+wk 	保	c=1 d=1 t=1617
+wkdh 	保存	c=1 d=1 t=55
+wkij 	保温	c=1 d=1 t=184
+wkje 	保暖	c=1 d=1 t=627
+wlad 	俄罗斯	c=1 d=1 t=1604
+wn 	假	c=1 d=1 t=588
+wnh 	假	c=1 d=1 t=576
+wnjh 	假冒	c=1 d=1 t=1204
+wnrw 	假扮	c=1 d=1 t=790
+wnt 	侯	c=1 d=1 t=890
+wntm 	人民币	c=1 d=1 t=130
+wnuf 	假装	c=4 d=1.00232 t=1904
+wq 	你	c=8 d=1.95746 t=1671
+wqij 	低温	c=1 d=1 t=1157
+wqwu 	你们	c=1 d=1 t=875
+wr 	风	c=1 d=1 t=241
+wru 	父	c=1 d=1 t=1868
+wsww 	何人	c=1 d=1 t=769
+wteh 	作用	c=1 d=1 t=1472
+wtr 	俄	c=1 d=1 t=79
+wty 	八	c=1 d=1 t=487
+wtyt 	作为	c=2 d=1.16203 t=1829
+wv 	分	c=1 d=1 t=1842
+wvnf 	分层	c=1 d=1 t=1829
+ww 	从	c=3 d=1.05287 t=910
+wwaa 	人工	c=2 d=1.99501 t=1260
+wwj 	价	c=1 d=1 t=1035
+wwkk 	人口	c=1 d=1 t=1686
+wwnu 	怂	c=2 d=1.99005 t=456
+wwod 	人类	c=5 d=2.80216 t=183
+wwpg 	人家	c=1 d=1 t=756
+wwsc 	人权	c=1 d=1 t=956
+wwwk 	俗	c=1 d=1 t=458
+wx 	化	c=1 d=1 t=1835
+wxf 	华	c=4 d=2.03058 t=1204
+wyeh 	食用	c=1 d=1 t=1083
+wyfn 	售卖	c=1 d=1 t=642
+wygd 	今天	c=2 d=1.8781 t=937
+wyk 	停	c=1 d=1 t=1527
+wys 	集	c=2 d=1.83946 t=1887
+wyth 	信息	c=4 d=2.37375 t=1914
+xa 	红	c=4 d=1.01323 t=1357
+xaal 	红薯	c=1 d=1 t=1356
+xad 	绒	c=2 d=1.956 t=887
+xaee 	红月	c=1 d=1 t=540
+xaso 	红楼	c=1 d=1 t=316
+xca 	经	c=1 d=1 t=1077
+xdpg 	绑定	c=2 d=1.99501 t=1872
+xedh 	缓存	c=1 d=1 t=1856
+xeuk 	缓冲	c=1 d=1 t=1854
+xf 	线	c=1 d=1 t=1167
+xfjs 	结果	c=2 d=1.20291 t=1886
+xfkh 	线路	c=1 d=1 t=42
+xfsq 	结构	c=1 d=1 t=1851
+xfte 	续航	c=1 d=1 t=476
+xgmp 	比亚迪	c=2 d=1.31506 t=1860
+xgsr 	纯棉	c=2 d=1.99501 t=884
+xheh 	引用	c=2 d=1.90484 t=1847
+xhii 	引水	c=2 d=1.96561 t=338
+xk 	强	c=1 d=1 t=324
+xnny 	母	c=1 d=1 t=1684
+xon 	继	c=1 d=1 t=1044
+xoxf 	继续	c=1 d=1 t=231
+xqc 	绝	c=6 d=2.14785 t=1281
+xt 	张	c=3 d=1.72681 t=792
+xtum 	终端	c=6 d=2.14408 t=1851
+xul 	弹	c=1 d=1 t=912
+xurv 	弱势	c=1 d=1 t=1052
+xw 	给	c=3 d=1.02282 t=1624
+xwcn 	给予	c=1 d=1 t=261
+xx 	比	c=2 d=1.92774 t=1108
+xxly 	比较	c=1 d=1 t=1803
+xxuj 	毕竟	c=1 d=1 t=757
+xydc 	编码	c=2 d=1.99005 t=71
+xygg 	统一	c=2 d=1.21762 t=462
+xyn 	编	c=1 d=1 t=286
+xytk 	编程	c=1 d=1 t=1351
+xyyf 	统计	c=2 d=1.13466 t=1913
+yaay 	试	c=5 d=4.88277 t=929
+yaya 	试试	c=4 d=1.29129 t=1890
+ye 	衣	c=1 d=1 t=894
+yfaj 	计划	c=9 d=7.4158 t=1902
+yfj 	讲	c=1 d=1 t=357
+yfth 	计算	c=2 d=1.39653 t=1940
+ygif 	语法	c=1 d=1 t=1434
+ygnn 	证书	c=1 d=1 t=1543
+ygyy 	语言	c=1 d=1 t=1667
+yh 	让	c=1 d=1 t=743
+yj 	刘	c=1 d=1 t=1904
+yk 	就	c=5 d=1.65219 t=1855
+ykjg 	就是	c=3 d=1.20319 t=1776
+ykke 	识别	c=1 d=1 t=1822
+ykm 	高	c=2 d=1.43387 t=206
+ylyg 	谓语	c=2 d=1.99005 t=1858
+ymft 	调教	c=1 d=1 t=142
+yn 	记	c=1 d=1 t=1013
+ynf 	讯	c=2 d=1.99501 t=852
+ynfc 	启动	c=2 d=1.21119 t=1584
+yni 	永	c=3 d=1.90603 t=1445
+ynma 	词典	c=1 d=1 t=32
+ynmp 	遍	c=2 d=1.98511 t=290
+ynol 	词库	c=1 d=1 t=267
+yntg 	永生	c=2 d=1.98511 t=301
+ynwy 	记住	c=1 d=1 t=1390
+yny 	房	c=1 d=1 t=864
+yojg 	变量	c=6 d=5.43882 t=1854
+yowx 	变化	c=1 d=1 t=1899
+yr 	义	c=1 d=1 t=1032
+yrte 	义务	c=1 d=1 t=18
+yrvq 	离婚	c=1 d=1 t=1144
+yrww 	主持人	c=1 d=1 t=1726
+yrxf 	离线	c=1 d=1 t=266
+ytny 	为	c=3 d=2.02243 t=1205
+ytpw 	放空	c=1 d=1 t=1850
+ytty 	放入	c=1 d=1 t=1885
+yu 	说	c=6 d=1.10774 t=1401
+yukk 	商品	c=1 d=1 t=1761
+yuxl 	详细	c=1 d=1 t=1676
+yuya 	说谎	c=1 d=1 t=1855
+ywff 	论坛	c=1 d=1 t=91
+ywjq 	交易	c=1 d=1 t=258
+ywlf 	设置	c=3 d=1.90097 t=1551
+ywqk 	文件名	c=1 d=0.413486 t=1537
+ywyg 	谁	c=1 d=1 t=1114
+yy 	方	c=2 d=1.99005 t=1700
+yygy 	文	c=1 d=1 t=1637
+yyif 	方法	c=1 d=1 t=1784
+yyuk 	访问	c=2 d=1.05843 t=1855
+yywg 	方便	c=1 d=1 t=1965
+yywr 	文风	c=1 d=1 t=1534
+yywt 	文件	c=11 d=4.32502 t=1817
+encaddh 	期在	c=0 d=0.1 t=663
+encadge 	藏青	c=0 d=0.1 t=62
+encadln 	项思	c=0 d=0.1 t=278
+encaefb 	菜地	c=0 d=0.1 t=1741
+encafgq 	某列	c=0 d=0.1 t=1482
+encafkw 	或者只	c=0 d=0.1 t=1511
+encafts 	某条	c=0 d=0.1 t=1952
+encagad 	藏青草原	c=0 d=0.1 t=63
+encagge 	草青青	c=0 d=0.1 t=65
+encagrq 	某列的	c=0 d=0.1 t=1483
+encagrw 	某列的值	c=0 d=0.1 t=1484
+encahvi 	或目录	c=0 d=0.1 t=1541
+encakdw 	革秦	c=0 d=0.1 t=1319
+encalsg 	项思醒	c=0 d=0.1 t=279
+encamjq 	黄易	c=0 d=0.1 t=1058
+encamtf 	黄毛	c=0 d=0.1 t=1132
+encarru 	欧拉	c=0 d=0.1 t=83
+encasrq 	东西的	c=0 d=0.1 t=780
+encawit 	花海	c=0 d=0.1 t=597
+encawyw 	其他文件	c=0 d=0.1 t=1733
+encaygs 	共享一样	c=0 d=0.1 t=1905
+encayrt 	共享执行	c=0 d=0.1 t=1881
+encbbnu 	除了快递	c=0 d=0.1 t=1212
+encbbyn 	子房	c=0 d=0.1 t=864
+encbdxr 	也成弱势	c=0 d=0.1 t=1052
+encbehx 	也受此	c=0 d=0.1 t=1680
+encbfxw 	了都给	c=0 d=0.1 t=1624
+encbfxw 	了都给你	c=0 d=0.1 t=1625
+encbgye 	卫衣	c=0 d=0.1 t=894
+encbisf 	子游标	c=0 d=0.1 t=1867
+encbmrq 	出的	c=0 d=0.1 t=1944
+encbndn 	也成	c=0 d=0.1 t=1051
+encbndy 	也太	c=0 d=0.1 t=1161
+encbnep 	也受	c=0 d=0.1 t=1679
+encbnft 	了都	c=0 d=0.1 t=1623
+encbnkb 	了啊	c=0 d=0.1 t=1738
+encbnrq 	了的	c=0 d=0.1 t=1801
+encbnvn 	了刀	c=0 d=0.1 t=1678
+encbrww 	阿拉伯人	c=0 d=0.1 t=244
+encbrya 	出的计划	c=0 d=0.1 t=1945
+encbsnh 	阿蛋	c=0 d=0.1 t=1117
+encbsny 	也可以	c=0 d=0.1 t=1413
+encbssf 	阿楠	c=0 d=0.1 t=202
+encbssl 	也要配置	c=0 d=0.1 t=1577
+encbsuj 	随机背景	c=0 d=0.1 t=504
+encbugf 	陪玩	c=0 d=0.1 t=1721
+encbvbn 	了刀了	c=0 d=0.1 t=1679
+enccchg 	双卡	c=0 d=0.1 t=373
+enccemu 	能赔	c=0 d=0.1 t=752
+enccerj 	能提	c=0 d=0.1 t=385
+enccfbn 	对了	c=0 d=0.1 t=1406
+enccfxn 	圣母	c=0 d=0.1 t=1684
+enccgjf 	参与时	c=0 d=0.1 t=1786
+enccgxl 	参与比较	c=0 d=0.1 t=1803
+encckth 	对品牌	c=0 d=0.1 t=651
+encckto 	对品牌店	c=0 d=0.1 t=652
+enccmfg 	能赔十	c=0 d=0.1 t=753
+enccned 	双层加厚	c=0 d=0.1 t=623
+enccnek 	双层加	c=0 d=0.1 t=622
+enccoje 	参数时用	c=0 d=0.1 t=1824
+enccojf 	参数时	c=0 d=0.1 t=1823
+enccopb 	对数字	c=0 d=0.1 t=1741
+enccrbc 	能提取	c=0 d=0.1 t=386
+enccxmb 	圣母赚了	c=0 d=0.1 t=1685
+enccyor 	验证数据	c=0 d=0.1 t=1863
+encdasg 	否匹配	c=0 d=0.1 t=1882
+encdbvp 	顾婉	c=0 d=0.1 t=86
+encddbn 	达成了	c=0 d=0.1 t=1695
+encddgg 	存在一	c=0 d=0.1 t=1874
+encddgt 	存在一条	c=0 d=0.1 t=1875
+encddih 	大波	c=0 d=0.1 t=1793
+encdeek 	有加	c=0 d=0.1 t=877
+encdesk 	胡歌	c=0 d=0.1 t=993
+encdeut 	有道	c=0 d=0.1 t=263
+encdewf 	有值	c=0 d=0.1 t=1514
+encdexa 	有加绒	c=0 d=0.1 t=878
+encdeyp 	有这	c=0 d=0.1 t=1179
+encdfuk 	三无产品	c=0 d=0.1 t=1251
+encdfyk 	三无商品	c=0 d=0.1 t=1761
+encdgfq 	三无	c=0 d=0.1 t=644
+encdgjg 	而不是	c=0 d=0.1 t=1871
+encdgmg 	在不同	c=0 d=0.1 t=1892
+encdgmr 	在不同的	c=0 d=0.1 t=1893
+encdgrx 	三指	c=0 d=0.1 t=448
+encdguu 	三立	c=0 d=0.1 t=1731
+encdgxt 	成一张	c=0 d=0.1 t=720
+encdhgi 	在不	c=0 d=0.1 t=1891
+encdhit 	夏洛	c=0 d=0.1 t=116
+encdhkg 	有点号	c=0 d=0.1 t=1570
+encdhkn 	在哪	c=0 d=0.1 t=1376
+encdhtr 	在我	c=0 d=0.1 t=731
+encdifi 	感觉都没	c=0 d=0.1 t=47
+encdift 	感觉都	c=0 d=0.1 t=46
+encditf 	夏洛特	c=0 d=0.1 t=117
+encdiue 	大波剪	c=0 d=0.1 t=1794
+encdiyo 	有洗衣粉	c=0 d=0.1 t=1369
+encdkfj 	在哪都是	c=0 d=0.1 t=1378
+encdkft 	在哪都	c=0 d=0.1 t=1377
+encdmdh 	在内存	c=0 d=0.1 t=1861
+encdmdj 	在内存里	c=0 d=0.1 t=1862
+encdmgi 	而不	c=0 d=0.1 t=1870
+encdmgi 	面不	c=0 d=0.1 t=1867
+encdmhw 	面具	c=0 d=0.1 t=461
+encdmwf 	布会	c=0 d=0.1 t=481
+encdnbn 	成了	c=0 d=0.1 t=1695
+encdnxt 	成张	c=0 d=0.1 t=792
+encdogh 	态度下	c=0 d=0.1 t=738
+encdoih 	大唐小	c=0 d=0.1 t=530
+encdomf 	盛唐崛起	c=0 d=0.1 t=1029
+encdovq 	百度好久	c=0 d=0.1 t=44
+encdpdc 	原密码	c=0 d=0.1 t=1440
+encdpdn 	达成	c=0 d=0.1 t=1694
+encdpjd 	确定是否	c=0 d=0.1 t=1875
+encdpwu 	在它们	c=0 d=0.1 t=684
+encdrqq 	在拼多多	c=0 d=0.1 t=1238
+encdrrc 	在控制台	c=0 d=0.1 t=1591
+encdrwq 	厚拉舍尔	c=0 d=0.1 t=624
+encdtgo 	磁盘速度	c=0 d=0.1 t=870
+encdtor 	磁盘数据	c=0 d=0.1 t=1683
+encdtrk 	硬盘接口	c=0 d=0.1 t=109
+encdtsk 	邦哥	c=0 d=0.1 t=1601
+encdttf 	大等等	c=0 d=0.1 t=1902
+encdttf 	大等等都	c=0 d=0.1 t=1903
+encdudh 	奋斗在	c=0 d=0.1 t=550
+encduen 	磁力	c=0 d=0.1 t=78
+encdurd 	三次换成	c=0 d=0.1 t=719
+encdurq 	三次换	c=0 d=0.1 t=718
+encdvuj 	顾婉音	c=0 d=0.1 t=87
+encdwaj 	秦草	c=0 d=0.1 t=862
+encdwor 	存储数据	c=0 d=0.1 t=1847
+encdwrq 	有值的	c=0 d=0.1 t=1515
+encdwud 	原价券	c=0 d=0.1 t=722
+encdxdg 	成张三	c=0 d=0.1 t=793
+encdxrv 	成弱势	c=0 d=0.1 t=1052
+encdxuy 	在线阅读	c=0 d=0.1 t=1331
+encdydd 	成熟达成	c=0 d=0.1 t=1694
+encdydp 	成熟达	c=0 d=0.1 t=1693
+encdytc 	有这么	c=0 d=0.1 t=1180
+encdytd 	有这么硬	c=0 d=0.1 t=1181
+enceakn 	加工中心	c=0 d=0.1 t=1710
+encedpd 	用原密码	c=0 d=0.1 t=1440
+encedrq 	加厚的	c=0 d=0.1 t=880
+encedtp 	须管	c=0 d=0.0995012 t=1920
+enceetp 	鼠须管	c=0 d=0.0995012 t=1920
+encehdr 	用原	c=0 d=0.1 t=1439
+encehgn 	加上末尾	c=0 d=0.1 t=1544
+encehit 	加上注释	c=0 d=0.1 t=1963
+encehrr 	受此控制	c=0 d=0.1 t=1681
+enceisw 	用法相似	c=0 d=0.1 t=1815
+encekdj 	加厚	c=0 d=0.1 t=623
+encekxa 	加绒	c=0 d=0.1 t=878
+encelty 	用输入	c=0 d=0.1 t=1828
+encened 	鼠须	c=0 d=0.099005 t=1920
+encengi 	爱已不	c=0 d=0.1 t=603
+enceotw 	用应答	c=0 d=0.1 t=1685
+encephx 	受此	c=0 d=0.1 t=1680
+encepnn 	爱已	c=0 d=0.1 t=602
+encepwf 	用空值	c=0 d=0.1 t=1464
+encevwx 	用退货	c=0 d=0.1 t=700
+encewrq 	受伤的	c=0 d=0.1 t=1691
+encexed 	加绒加厚	c=0 d=0.1 t=879
+enceygn 	用户与	c=0 d=0.1 t=963
+enceygq 	用户与狗	c=0 d=0.1 t=964
+enceywn 	用户修改	c=0 d=0.1 t=1418
+encfbfw 	无限替代	c=0 d=0.1 t=1858
+encfcdg 	去三	c=0 d=0.1 t=1730
+encfcgn 	才参与	c=0 d=0.1 t=1802
+encfckt 	未对品牌	c=0 d=0.1 t=651
+encfcpy 	动视	c=0 d=0.1 t=1064
+encfcte 	云盘	c=0 d=0.1 t=96
+encfdpw 	真在它们	c=0 d=0.1 t=684
+encfdtt 	过大等等	c=0 d=0.1 t=1902
+encfduu 	去三立	c=0 d=0.1 t=1731
+encfeyg 	老用户与	c=0 d=0.1 t=963
+encfeyn 	老用户	c=0 d=0.1 t=962
+encffot 	无需应答	c=0 d=0.1 t=1704
+encfgbn 	二了	c=0 d=0.1 t=727
+encfgwo 	未来人类	c=0 d=0.1 t=183
+encfhdh 	真在	c=0 d=0.1 t=683
+encfhgi 	真不	c=0 d=0.1 t=678
+encfhpg 	赵富	c=0 d=0.1 t=322
+encfhpy 	超神	c=0 d=0.1 t=292
+encfhrd 	真希	c=0 d=0.1 t=1615
+encfhut 	趣阁	c=0 d=0.1 t=1316
+encfhwq 	走你	c=0 d=0.1 t=953
+encfica 	款游戏	c=0 d=0.1 t=810
+encficf 	未对	c=0 d=0.1 t=650
+encficr 	款游戏的	c=0 d=0.1 t=811
+encfide 	都没有	c=0 d=0.1 t=1220
+encfikw 	都没啥	c=0 d=0.1 t=48
+encfiwc 	卖油翁	c=0 d=0.1 t=1675
+encfiwm 	卖油翁赚	c=0 d=0.1 t=1676
+encfjkh 	都是嘴	c=0 d=0.1 t=1379
+encfjkh 	都是嘴上	c=0 d=0.1 t=1380
+encfkow 	嘉鹰	c=0 d=0.1 t=1191
+encfnid 	声尖	c=0 d=0.1 t=329
+encfnim 	卖油	c=0 d=0.1 t=1674
+encfpdd 	过大	c=0 d=0.1 t=1901
+encfpjf 	动视暴雪	c=0 d=0.1 t=1065
+encfppp 	无穷之	c=0 d=0.1 t=14
+encfpss 	超神机械	c=0 d=0.1 t=293
+encfqdc 	无码	c=0 d=0.1 t=1105
+encfqtr 	无我	c=0 d=0.1 t=1185
+encfquj 	无间	c=0 d=0.1 t=101
+encfscg 	去检验	c=0 d=0.1 t=750
+encfstf 	需要先	c=0 d=0.1 t=789
+encftft 	运行过程	c=0 d=0.1 t=1858
+encftiw 	都没	c=0 d=0.1 t=47
+encftjg 	都是	c=0 d=0.1 t=1378
+encftkd 	过程中在	c=0 d=0.1 t=1860
+encftkh 	过程中	c=0 d=0.1 t=1859
+encftrq 	运行的	c=0 d=0.1 t=1932
+encfttg 	才行	c=0 d=0.1 t=742
+encftuk 	远程端口	c=0 d=0.1 t=1652
+encftwf 	都会	c=0 d=0.1 t=1904
+encftwv 	远程登录	c=0 d=0.1 t=1670
+encftxw 	都给	c=0 d=0.1 t=1624
+encftyh 	才行让	c=0 d=0.1 t=743
+encftyp 	无我这	c=0 d=0.1 t=1186
+encftyt 	才行让我	c=0 d=0.1 t=744
+encfukk 	无产品	c=0 d=0.1 t=645
+encfuyg 	二次说再	c=0 d=0.1 t=709
+encfuyu 	二次说	c=0 d=0.1 t=708
+encfwrq 	走你的	c=0 d=0.1 t=954
+encfwut 	都会产生	c=0 d=0.1 t=1905
+encfxwq 	都给你	c=0 d=0.1 t=1625
+encgadh 	一期在	c=0 d=0.1 t=663
+encgadr 	青草原	c=0 d=0.1 t=63
+encgasg 	到东西	c=0 d=0.1 t=779
+encgasr 	到东西的	c=0 d=0.1 t=780
+encgcay 	不能共享	c=0 d=0.1 t=1904
+encgcay 	玛蒂	c=0 d=0.1 t=509
+encgcfc 	平台未对	c=0 d=0.1 t=650
+encgcfi 	平台未	c=0 d=0.1 t=649
+encgcgj 	列参与时	c=0 d=0.1 t=1786
+encgcgn 	列参与	c=0 d=0.1 t=1785
+encgchx 	到此	c=0 d=0.1 t=1753
+encgddh 	不存在	c=0 d=0.1 t=604
+encgdfq 	到三无	c=0 d=0.1 t=689
+encgdjg 	不还是	c=0 d=0.1 t=1896
+encgdte 	到磁盘	c=0 d=0.1 t=1677
+encgdyn 	一百遍	c=0 d=0.1 t=290
+encgekh 	表中	c=0 d=0.1 t=1595
+encgeud 	更加准确	c=0 d=0.1 t=1803
+encgevw 	不用退货	c=0 d=0.1 t=700
+encgfad 	不过期	c=0 d=0.1 t=1447
+encgfcg 	列才参与	c=0 d=0.1 t=1802
+encgfgh 	环境下	c=0 d=0.1 t=1895
+encgfrq 	来真的	c=0 d=0.1 t=1121
+encgfrq 	环境的	c=0 d=0.1 t=1693
+encgfrr 	于白	c=0 d=0.1 t=703
+encggad 	一期	c=0 d=0.1 t=662
+encggfq 	天下无	c=0 d=0.1 t=1184
+encggft 	天下无我	c=0 d=0.1 t=1185
+encggit 	王海	c=0 d=0.1 t=67
+encggjr 	一再坚持	c=0 d=0.1 t=734
+encggmu 	一赔	c=0 d=0.1 t=590
+encggnu 	再不买	c=0 d=0.1 t=1031
+encggpw 	不到空值	c=0 d=0.1 t=1475
+encggth 	珊瑚午睡	c=0 d=0.1 t=629
+encggts 	一条	c=0 d=0.1 t=1875
+encgguj 	一章	c=0 d=0.1 t=167
+encgguj 	下一章	c=0 d=0.1 t=167
+encggwh 	下一个	c=0 d=0.1 t=1774
+encggxt 	一张	c=0 d=0.1 t=713
+encghgg 	下一	c=0 d=0.1 t=166
+encghkg 	带点号	c=0 d=0.1 t=1551
+encghmj 	正则	c=0 d=0.1 t=171
+encghtc 	到此入驻	c=0 d=0.1 t=1754
+encgieh 	不用	c=0 d=0.1 t=699
+encgigc 	不到	c=0 d=0.1 t=1474
+encgijg 	不是	c=0 d=0.1 t=1871
+encgijq 	不易	c=0 d=0.1 t=1907
+encgimg 	不同	c=0 d=0.1 t=1892
+encginn 	求书	c=0 d=0.1 t=73
+encgint 	正当性	c=0 d=0.1 t=1363
+encginu 	不买	c=0 d=0.1 t=1031
+encgirh 	不掉	c=0 d=0.1 t=1698
+encgirw 	不投	c=0 d=0.1 t=1817
+encgiss 	王海林	c=0 d=0.1 t=68
+encgisv 	不根	c=0 d=0.1 t=342
+encgitg 	不生	c=0 d=0.1 t=1371
+encgitj 	不得	c=0 d=0.1 t=966
+encgiwg 	不倒	c=0 d=0.1 t=1171
+encgjdf 	不是三无	c=0 d=0.1 t=786
+encgjgi 	不是整活	c=0 d=0.1 t=681
+encgjgk 	不是整	c=0 d=0.1 t=680
+encgjkh 	理中	c=0 d=0.1 t=940
+encgjkt 	不影响	c=0 d=0.1 t=1432
+encgjrl 	末日拼图	c=0 d=0.1 t=281
+encgjvb 	下最好	c=0 d=0.1 t=1508
+encgjxp 	不是绑定	c=0 d=0.1 t=1872
+encgkhk 	带点	c=0 d=0.1 t=1550
+encgkit 	整活	c=0 d=0.1 t=681
+encgkpt 	理中客	c=0 d=0.1 t=941
+encgksj 	表中查	c=0 d=0.1 t=1596
+encglud 	静默状态	c=0 d=0.1 t=1702
+encglxf 	不连续	c=0 d=0.1 t=1763
+encgmfg 	一赔十	c=0 d=0.1 t=591
+encgmgi 	再不	c=0 d=0.1 t=1030
+encgmrq 	不同的	c=0 d=0.1 t=1893
+encgmtg 	两行	c=0 d=0.1 t=1479
+encgmtr 	再我	c=0 d=0.1 t=729
+encgmxw 	再给	c=0 d=0.1 t=710
+encgmyp 	再这	c=0 d=0.1 t=948
+encgnqt 	与狗	c=0 d=0.1 t=964
+encgnrq 	与的	c=0 d=0.1 t=1813
+encgomp 	亚迪	c=0 d=0.1 t=1095
+encgpsh 	与之相	c=0 d=0.1 t=1790
+encgpwf 	到空值	c=0 d=0.1 t=1475
+encgpwg 	不安全	c=0 d=0.1 t=571
+encgpwh 	到空值上	c=0 d=0.1 t=1476
+encgqft 	列才	c=0 d=0.1 t=1801
+encgqgi 	与狗不	c=0 d=0.1 t=965
+encgqgt 	与狗不得	c=0 d=0.1 t=966
+encgqrq 	列的	c=0 d=0.1 t=1767
+encgqww 	死人	c=0 d=0.1 t=1076
+encgrei 	与的用法	c=0 d=0.1 t=1814
+encgrrq 	不掉的	c=0 d=0.1 t=1699
+encgrtm 	不投币	c=0 d=0.1 t=1818
+encgrvb 	于白嫖了	c=0 d=0.1 t=705
+encgrvs 	于白嫖	c=0 d=0.1 t=704
+encgrwf 	列的值	c=0 d=0.1 t=1484
+encgrwy 	列的值为	c=0 d=0.1 t=1485
+encgsbn 	一样也	c=0 d=0.1 t=1751
+encgscj 	不可能是	c=0 d=0.1 t=908
+encgsmg 	列相同	c=0 d=0.1 t=1796
+encgsmj 	列相同时	c=0 d=0.1 t=1797
+encgsny 	列可以	c=0 d=0.1 t=1500
+encgsny 	列可以为	c=0 d=0.1 t=1501
+encgsrq 	一样的	c=0 d=0.1 t=1906
+encgsws 	不相信柳	c=0 d=0.1 t=1176
+encgswy 	不相信	c=0 d=0.1 t=1175
+encgteg 	不得办理	c=0 d=0.1 t=967
+encgtgf 	不等于	c=0 d=0.1 t=1459
+encgtor 	一条数据	c=0 d=0.1 t=1811
+encgtor 	一种数据	c=0 d=0.1 t=1850
+encgtor 	两行数据	c=0 d=0.1 t=1480
+encgtsy 	一种标识	c=0 d=0.1 t=1865
+encgugi 	下次不	c=0 d=0.1 t=341
+encgugs 	下次不根	c=0 d=0.1 t=342
+encgurq 	下次排名	c=0 d=0.1 t=1761
+encgurs 	一次打	c=0 d=0.1 t=694
+encguut 	更新装备	c=0 d=0.1 t=1799
+encgwpw 	两个空值	c=0 d=0.1 t=1455
+encgwrq 	一个排名	c=0 d=0.1 t=1775
+encgwsw 	一体机	c=0 d=0.1 t=151
+encgwww 	下何人	c=0 d=0.1 t=769
+encgwxc 	死人经	c=0 d=0.1 t=1077
+encgxdw 	一张原价	c=0 d=0.1 t=721
+encgysu 	再这样	c=0 d=0.1 t=949
+encgyty 	再放入	c=0 d=0.1 t=1885
+encgywg 	来方便	c=0 d=0.1 t=1965
+enchdtg 	上面得到	c=0 d=0.1 t=1287
+enchfic 	此款游戏	c=0 d=0.1 t=822
+enchhrq 	上的	c=0 d=0.1 t=666
+enchhss 	上林	c=0 d=0.1 t=1539
+enchirq 	非常的	c=0 d=0.1 t=832
+enchkkg 	点号	c=0 d=0.1 t=1551
+enchkud 	点号前面	c=0 d=0.1 t=1573
+enchlty 	非输入	c=0 d=0.1 t=1658
+enchmng 	上购买到	c=0 d=0.1 t=1752
+enchmnu 	上购买	c=0 d=0.1 t=1751
+enchnpg 	卢家	c=0 d=0.1 t=37
+enchpfm 	卢家坝	c=0 d=0.1 t=38
+enchrkt 	上的品牌	c=0 d=0.1 t=667
+enchrrm 	此控制	c=0 d=0.1 t=1681
+enchrsw 	虚拟机	c=0 d=0.1 t=1530
+enchstg 	上林行	c=0 d=0.1 t=1540
+enchtcg 	此入驻	c=0 d=0.1 t=1754
+enchtkw 	此生只	c=0 d=0.1 t=1040
+enchtkw 	瞅啥	c=0 d=0.1 t=1673
+enchtky 	此生只为	c=0 d=0.1 t=1041
+enchtue 	睡前	c=0 d=0.1 t=1702
+enchtuj 	上生意	c=0 d=0.1 t=1381
+enchuit 	睡前消息	c=0 d=0.1 t=1703
+enchxff 	此款	c=0 d=0.1 t=809
+enchxtg 	此生	c=0 d=0.1 t=1039
+enciabn 	满了	c=0 d=0.1 t=944
+enciatf 	小黄毛	c=0 d=0.1 t=1132
+encibdn 	法也成	c=0 d=0.1 t=1051
+encibkb 	满了啊	c=0 d=0.1 t=945
+encicbd 	游戏也太	c=0 d=0.1 t=1161
+encicbn 	游戏也	c=0 d=0.1 t=1160
+encicrq 	游戏的	c=0 d=0.1 t=823
+encidft 	没有运行	c=0 d=0.1 t=1948
+encidkh 	源中	c=0 d=0.1 t=1865
+encidkm 	没有吊	c=0 d=0.1 t=1207
+encidkt 	没有吊牌	c=0 d=0.1 t=1208
+encidny 	没有心	c=0 d=0.1 t=991
+encidqu 	没有包装	c=0 d=0.1 t=1210
+encidsl 	没有配置	c=0 d=0.1 t=1563
+enciemd 	肖央	c=0 d=0.1 t=523
+encifbn 	法也	c=0 d=0.1 t=1050
+encifgg 	小霸王	c=0 d=0.1 t=1805
+encifux 	小老弟	c=0 d=0.1 t=426
+encigww 	堂下何人	c=0 d=0.1 t=769
+enciham 	小黄	c=0 d=0.1 t=1131
+encihqt 	小狼	c=0 d=0.1 t=1078
+encihue 	波剪	c=0 d=0.1 t=1794
+encihug 	小半	c=0 d=0.1 t=1902
+encihxa 	小红	c=0 d=0.1 t=318
+enciigg 	水王	c=0 d=0.1 t=1140
+enciiuw 	水冷	c=0 d=0.1 t=93
+encikmb 	演员赚了	c=0 d=0.1 t=1681
+encikrd 	源中所有	c=0 d=0.1 t=1866
+enciktw 	满足条件	c=0 d=0.1 t=1872
+encikuu 	没啥新闻	c=0 d=0.1 t=49
+encimuu 	江山丫头	c=0 d=0.1 t=1023
+encimwc 	油翁	c=0 d=0.1 t=1675
+encinnf 	小心收走	c=0 d=0.1 t=952
+encinnh 	小心收	c=0 d=0.1 t=951
+enciodj 	小米大师	c=0 d=0.1 t=1018
+encipgh 	堂下	c=0 d=0.1 t=768
+enciteg 	海县	c=0 d=0.1 t=257
+encitgo 	注释来	c=0 d=0.1 t=1964
+encitoy 	觉得应该	c=0 d=0.1 t=1671
+encitss 	海林	c=0 d=0.1 t=68
+encittc 	沦怎么	c=0 d=0.1 t=354
+encittf 	洛特	c=0 d=0.1 t=117
+encitty 	沦怎么说	c=0 d=0.1 t=355
+enciuey 	当前用户	c=0 d=0.1 t=1417
+enciupu 	当前安装	c=0 d=0.1 t=1691
+enciviv 	当当	c=0 d=0.1 t=1648
+encivnc 	小妖怪	c=0 d=0.1 t=1533
+enciwbn 	涨价了	c=0 d=0.1 t=1036
+enciwkw 	没啥	c=0 d=0.1 t=48
+enciwmb 	油翁赚了	c=0 d=0.1 t=1677
+enciwmu 	油翁赚	c=0 d=0.1 t=1676
+encixww 	涨价	c=0 d=0.1 t=1035
+enciyog 	洗衣粉不	c=0 d=0.1 t=1370
+encjbeh 	时也受此	c=0 d=0.1 t=1680
+encjbep 	时也受	c=0 d=0.1 t=1679
+encjdfq 	是三无	c=0 d=0.1 t=786
+encjego 	时用来	c=0 d=0.1 t=1861
+encjehh 	里加上	c=0 d=0.1 t=1962
+encjfbn 	时也	c=0 d=0.1 t=1678
+encjfeh 	时用	c=0 d=0.1 t=1824
+encjfjf 	显示时	c=0 d=0.1 t=1675
+encjfpu 	显示安装	c=0 d=0.1 t=1712
+encjfrq 	显示的	c=0 d=0.1 t=1469
+encjfrq 	里的	c=0 d=0.1 t=1863
+encjftk 	显示和	c=0 d=0.1 t=1844
+encjgdj 	日不还是	c=0 d=0.1 t=1896
+encjggi 	是不	c=0 d=0.1 t=784
+encjgik 	是不满足	c=0 d=0.1 t=1871
+encjgjf 	是不显示	c=0 d=0.1 t=1852
+encjgjg 	是不是	c=0 d=0.1 t=785
+encjgkh 	是嘴	c=0 d=0.1 t=1379
+encjgwh 	是个	c=0 d=0.1 t=485
+encjhiy 	显卡测试	c=0 d=0.1 t=142
+encjjgi 	日不	c=0 d=0.1 t=1895
+encjjjb 	电影最	c=0 d=0.1 t=1074
+encjkhh 	是嘴上	c=0 d=0.1 t=1380
+encjkiu 	影响当前	c=0 d=0.1 t=1433
+encjkth 	是品牌	c=0 d=0.1 t=759
+encjkto 	是品牌店	c=0 d=0.1 t=760
+encjrdm 	时后面	c=0 d=0.1 t=1798
+encjrdr 	时后面的	c=0 d=0.1 t=1799
+encjrgg 	最后一	c=0 d=0.1 t=1809
+encjrgt 	最后一条	c=0 d=0.1 t=1810
+encjrgt 	里的一种	c=0 d=0.1 t=1864
+encjrgw 	最后一个	c=0 d=0.1 t=513
+encjrlg 	时返回一	c=0 d=0.1 t=1491
+encjrlk 	时返回	c=0 d=0.1 t=1495
+encjsbb 	是棋子	c=0 d=0.1 t=1126
+encjslf 	果园	c=0 d=0.1 t=1608
+encjtuy 	星门	c=0 d=0.1 t=889
+encjvwe 	最好使用	c=0 d=0.1 t=1509
+encjwpe 	最便宜	c=0 d=0.1 t=371
+encjwrr 	时候看看	c=0 d=0.1 t=782
+encjxpg 	是绑定	c=0 d=0.1 t=1872
+encjxwg 	最强剑	c=0 d=0.1 t=364
+encjxwp 	最强剑神	c=0 d=0.1 t=365
+encjyxj 	时详细时	c=0 d=0.1 t=1677
+encjyxl 	时详细	c=0 d=0.1 t=1676
+encjyyu 	电话说	c=0 d=0.1 t=696
+enckddg 	只存在一	c=0 d=0.1 t=1874
+enckddh 	只存在	c=0 d=0.1 t=1873
+enckdmd 	中在内存	c=0 d=0.1 t=1861
+enckdud 	只有前面	c=0 d=0.1 t=1793
+enckerr 	别拍	c=0 d=0.1 t=981
+enckfjg 	哪都是	c=0 d=0.1 t=1378
+enckfjk 	哪都是嘴	c=0 d=0.1 t=1379
+enckgdj 	啊一百	c=0 d=0.1 t=289
+enckgdy 	啊一百遍	c=0 d=0.1 t=290
+enckgrh 	跑不掉	c=0 d=0.1 t=1698
+enckgrr 	跑不掉的	c=0 d=0.1 t=1699
+enckhdh 	中在	c=0 d=0.1 t=1860
+enckhff 	中土	c=0 d=0.1 t=260
+enckhft 	中老	c=0 d=0.1 t=308
+enckhgh 	中正	c=0 d=0.1 t=1071
+enckhgi 	跑不	c=0 d=0.1 t=1697
+enckhhh 	嘴上	c=0 d=0.1 t=1380
+enckhpt 	中客	c=0 d=0.1 t=941
+enckhsj 	中查	c=0 d=0.1 t=1596
+enckhtu 	嘴上生意	c=0 d=0.1 t=1381
+enckhwk 	中保	c=0 d=0.1 t=1617
+enckjkx 	哩哔	c=0 d=0.1 t=1137
+enckjya 	只是计划	c=0 d=0.1 t=1937
+enckkkj 	哩哔哩	c=0 d=0.1 t=1138
+enckkkk 	哔哩哔哩	c=0 d=0.1 t=1138
+enckkkx 	哔哩哔	c=0 d=0.1 t=1137
+enckkqb 	咒怨	c=0 d=0.1 t=326
+encklww 	中国人	c=0 d=0.1 t=1062
+enckmth 	吊牌	c=0 d=0.1 t=1218
+encknft 	哪都	c=0 d=0.1 t=1377
+encknlg 	跟民国	c=0 d=0.1 t=247
+enckotw 	跟应答	c=0 d=0.1 t=1717
+enckrde 	中所有	c=0 d=0.1 t=1866
+enckrdr 	中所有的	c=0 d=0.1 t=1867
+encktft 	吊牌都	c=0 d=0.1 t=1219
+encktid 	品牌没有	c=0 d=0.1 t=1206
+encktoh 	品牌店	c=0 d=0.1 t=760
+encktok 	品牌店嘛	c=0 d=0.1 t=761
+enckton 	品牌店买	c=0 d=0.1 t=687
+encktoq 	品牌店铺	c=0 d=0.1 t=1756
+enckuub 	啥新闻	c=0 d=0.1 t=49
+enckuub 	啥新闻了	c=0 d=0.1 t=50
+enckwdg 	中保研	c=0 d=0.1 t=1618
+enckweh 	中使用	c=0 d=0.1 t=1851
+enckwrq 	别人的	c=0 d=0.1 t=350
+enckwyl 	只为	c=0 d=0.1 t=1041
+enckxdh 	中缓存	c=0 d=0.1 t=1856
+enckxkj 	哔哩	c=0 d=0.1 t=1138
+enckxyd 	只统计有	c=0 d=0.1 t=1513
+enckxyf 	只统计	c=0 d=0.1 t=1512
+enclbgc 	输出到	c=0 d=0.1 t=1676
+enclbjg 	输出是不	c=0 d=0.1 t=1851
+enclbsa 	输出模式	c=0 d=0.1 t=1660
+enclbsg 	输出模式	c=0 d=0.1 t=1660
+enclfdx 	黜龙	c=0 d=0.1 t=1899
+enclhha 	四虎	c=0 d=0.1 t=868
+enclktf 	连吊牌都	c=0 d=0.1 t=1219
+enclkth 	连吊牌	c=0 d=0.1 t=1218
+enclkxw 	回给	c=0 d=0.1 t=747
+encllyw 	置默认	c=0 d=0.1 t=1281
+enclnsg 	思醒	c=0 d=0.1 t=279
+enclpkm 	连吊	c=0 d=0.1 t=1217
+encltdq 	回复破解	c=0 d=0.1 t=1398
+encltlb 	输入输出	c=0 d=0.1 t=1659
+encltwy 	输入作为	c=0 d=0.1 t=1829
+enclxrq 	连续的	c=0 d=0.1 t=1780
+enclyfb 	默认无限	c=0 d=0.1 t=1857
+enclypd 	默认密码	c=0 d=0.1 t=1284
+enclyrq 	默认的	c=0 d=0.1 t=1695
+enclywf 	默认值	c=0 d=0.1 t=1837
+encmbij 	赚了流量	c=0 d=0.1 t=1682
+encmbvb 	赚了刀了	c=0 d=0.1 t=1679
+encmbvn 	赚了刀	c=0 d=0.1 t=1678
+encmbwk 	赚了人口	c=0 d=0.1 t=1686
+encmdjf 	内存里	c=0 d=0.1 t=1862
+encmdjr 	内存里的	c=0 d=0.1 t=1863
+encmffk 	周嘉	c=0 d=0.1 t=1190
+encmfow 	周嘉鹰	c=0 d=0.1 t=1191
+encmgrq 	同的	c=0 d=0.1 t=1893
+encmipp 	网游之	c=0 d=0.1 t=300
+encmjjg 	则是	c=0 d=0.1 t=1782
+encmjqw 	网易镜像	c=0 d=0.1 t=1296
+encmjym 	网易词典	c=0 d=0.1 t=32
+encmkpd 	账号密码	c=0 d=0.1 t=1421
+encmngc 	购买到	c=0 d=0.1 t=1752
+encmngh 	购买到此	c=0 d=0.1 t=1753
+encmnux 	崛北	c=0 d=0.1 t=1613
+encmplb 	内容输出	c=0 d=0.1 t=1675
+encmpsy 	内容查询	c=0 d=0.1 t=1958
+encmrgf 	同的环境	c=0 d=0.1 t=1894
+encmsrq 	同样的	c=0 d=0.1 t=1889
+encmubn 	赚了	c=0 d=0.1 t=1677
+encmufg 	赔十	c=0 d=0.1 t=753
+encmufh 	崛北真	c=0 d=0.1 t=1614
+encmufr 	崛北真希	c=0 d=0.1 t=1615
+encmujr 	财产申报	c=0 d=0.1 t=1128
+encmwog 	肉精	c=0 d=0.1 t=199
+encmxsl 	网络配置	c=0 d=0.1 t=1709
+encndwf 	发布会	c=0 d=0.1 t=481
+encnejf 	必须显示	c=0 d=0.1 t=1468
+encnfid 	惊声尖	c=0 d=0.1 t=329
+encnfnx 	展示已经	c=0 d=0.1 t=1930
+encnfwq 	收走你	c=0 d=0.1 t=953
+encnfwr 	收走你的	c=0 d=0.1 t=954
+encngas 	买到东西	c=0 d=0.1 t=779
+encngdd 	已不存在	c=0 d=0.1 t=604
+encngdf 	买到三无	c=0 d=0.1 t=689
+encnhfh 	收走	c=0 d=0.1 t=952
+encnhnh 	蛋蛋	c=0 d=0.1 t=113
+encnlpu 	民国军阀	c=0 d=0.1 t=248
+encnngi 	已不	c=0 d=0.1 t=603
+encnoaw 	买烟花	c=0 d=0.1 t=1123
+encnqmr 	书包网	c=0 d=0.1 t=1310
+encntdf 	那么三无	c=0 d=0.1 t=856
+encntdm 	发布	c=0 d=0.1 t=480
+encntgh 	那么下	c=0 d=0.1 t=1773
+encnthk 	那么点号	c=0 d=0.1 t=1572
+encntwd 	怪物合成	c=0 d=0.1 t=388
+encnugh 	情况下	c=0 d=0.1 t=1507
+encnuwa 	快递袋	c=0 d=0.1 t=1213
+encnuyy 	发送方	c=0 d=0.1 t=1700
+encnwfm 	收集规则	c=0 d=0.1 t=1840
+encnwxy 	收集统计	c=0 d=0.1 t=1913
+encnxft 	已经运行	c=0 d=0.1 t=1931
+encnxwb 	怀疑他	c=0 d=0.1 t=1367
+encnxwd 	怀疑他有	c=0 d=0.1 t=1368
+encnydh 	民主在	c=0 d=0.1 t=1375
+encnydk 	民主在哪	c=0 d=0.1 t=1376
+encnyfn 	惊声	c=0 d=0.1 t=328
+encnynu 	心悦	c=0 d=0.1 t=581
+encnyrq 	民主的	c=0 d=0.1 t=958
+encoaqq 	炼金	c=0 d=0.1 t=226
+encoatg 	炒花生	c=0 d=0.1 t=1086
+encobft 	炸了都	c=0 d=0.1 t=1623
+encobfx 	炸了都给	c=0 d=0.1 t=1624
+encoejf 	应用时	c=0 d=0.1 t=1860
+encohko 	店嘛	c=0 d=0.1 t=761
+encohnu 	店买	c=0 d=0.1 t=687
+encokrq 	序号排名	c=0 d=0.1 t=1749
+encollf 	烟署	c=0 d=0.1 t=1354
+encongc 	店买到	c=0 d=0.1 t=688
+encopgu 	数字下次	c=0 d=0.1 t=1760
+encopro 	数字排序	c=0 d=0.1 t=1742
+encopsm 	数字相同	c=0 d=0.1 t=1747
+encoqrq 	店铺的	c=0 d=0.1 t=1757
+encoqwf 	店铺售卖	c=0 d=0.1 t=642
+encorid 	数据源	c=0 d=0.1 t=1864
+encorik 	数据源中	c=0 d=0.1 t=1865
+encorrq 	数据的	c=0 d=0.1 t=1848
+encortg 	数据行	c=0 d=0.1 t=1869
+encorxs 	数据结构	c=0 d=0.1 t=1851
+encossr 	库模板	c=0 d=0.1 t=1707
+encostf 	磨毛	c=0 d=0.1 t=874
+encotbn 	炸了	c=0 d=0.1 t=1622
+encotyw 	应答文件	c=0 d=0.1 t=1718
+encovad 	康斯	c=0 d=0.1 t=233
+encoyfr 	应该支持	c=0 d=0.1 t=1672
+encpcne 	被双层加	c=0 d=0.1 t=622
+encpcnf 	被双层	c=0 d=0.1 t=621
+encpdfa 	密码过期	c=0 d=0.1 t=1426
+encpdgi 	密码不	c=0 d=0.1 t=1422
+encpdlk 	寄回	c=0 d=0.1 t=746
+encpdwv 	密码登录	c=0 d=0.1 t=1290
+encpdyl 	密码设置	c=0 d=0.1 t=1443
+encpdyp 	家有这	c=0 d=0.1 t=1179
+encpdyt 	家有这么	c=0 d=0.1 t=1180
+encpgde 	家有	c=0 d=0.1 t=1178
+encpgdh 	写在	c=0 d=0.1 t=1560
+encpgfm 	家坝	c=0 d=0.1 t=38
+encpjfv 	视暴雪	c=0 d=0.1 t=1065
+encpjuu 	实时新闻	c=0 d=0.1 t=1265
+encplxw 	寄回给	c=0 d=0.1 t=747
+encprmt 	被打败	c=0 d=0.1 t=600
+encprnu 	空的情况	c=0 d=0.1 t=1506
+encpsrg 	空格后	c=0 d=0.1 t=1715
+encpsrk 	空格后跟	c=0 d=0.1 t=1716
+encpssa 	神机械	c=0 d=0.1 t=293
+encptta 	神秘复苏	c=0 d=0.1 t=516
+encpufo 	安装进度	c=0 d=0.1 t=1713
+encpugf 	安装环境	c=0 d=0.1 t=1692
+encpugs 	军阀一样	c=0 d=0.1 t=249
+encpupf 	安装完	c=0 d=0.1 t=1721
+encpvjs 	官如果	c=0 d=0.1 t=773
+encpvjt 	官如果我	c=0 d=0.1 t=774
+encpwgi 	空值不	c=0 d=0.1 t=1458
+encpwhh 	空值上	c=0 d=0.1 t=1476
+encpwkt 	它们品牌	c=0 d=0.1 t=685
+encpwrq 	空的	c=0 d=0.1 t=1505
+encpwuw 	宿舍单人	c=0 d=0.1 t=626
+encpwwf 	空值	c=0 d=0.1 t=1450
+encpwwy 	空值作为	c=0 d=0.1 t=1465
+encpwyj 	空值就是	c=0 d=0.1 t=1451
+encpyrq 	定义的	c=0 d=0.1 t=1853
+encpytg 	之永生	c=0 d=0.1 t=298
+encqenu 	触屏	c=0 d=0.1 t=17
+encqgcg 	多列参与	c=0 d=0.1 t=1785
+encqgtj 	狗不得	c=0 d=0.1 t=966
+encqgwt 	键事件	c=0 d=0.1 t=444
+encqlxu 	链弹	c=0 d=0.1 t=912
+encqnrq 	包的	c=0 d=0.1 t=1737
+encqqgq 	多列	c=0 d=0.1 t=1784
+encqqil 	金渐	c=0 d=0.1 t=379
+encqqqq 	多多	c=0 d=0.1 t=607
+encqrrt 	包的执行	c=0 d=0.1 t=1738
+encqsrg 	解析后	c=0 d=0.1 t=1879
+encqtgi 	狗不	c=0 d=0.1 t=965
+encqtgj 	包管理	c=0 d=0.1 t=1523
+encqtgk 	包管理器	c=0 d=0.1 t=1524
+encqtrg 	银行后	c=0 d=0.1 t=1046
+encqtsg 	多版本	c=0 d=0.1 t=1550
+encqubb 	包装除了	c=0 d=0.1 t=1211
+encqwaw 	包含其他	c=0 d=0.1 t=1732
+encqwrq 	包含的	c=0 d=0.1 t=926
+encqxeh 	名引用	c=0 d=0.1 t=1847
+encqxrq 	免费换	c=0 d=0.1 t=976
+encqyuf 	锦衣状元	c=0 d=0.1 t=1931
+encrahh 	的项目	c=0 d=0.1 t=410
+encrayk 	后共享	c=0 d=0.1 t=1880
+encrdgx 	换成一张	c=0 d=0.1 t=720
+encrdld 	的原因	c=0 d=0.1 t=1912
+encrdoa 	的态度	c=0 d=0.1 t=737
+encrdog 	的态度下	c=0 d=0.1 t=738
+encrdqw 	所有饮食	c=0 d=0.1 t=923
+encrdrg 	后面的列	c=0 d=0.1 t=1800
+encrdrq 	后面的	c=0 d=0.1 t=1799
+encrdrq 	所有的	c=0 d=0.1 t=1898
+encrdte 	换硬盘	c=0 d=0.1 t=305
+encrdyd 	的成熟达	c=0 d=0.1 t=1693
+encrdyk 	的成熟	c=0 d=0.1 t=1692
+encreif 	的用法	c=0 d=0.1 t=1814
+encreig 	白月光	c=0 d=0.1 t=1076
+encrfgg 	搜索不到	c=0 d=0.1 t=403
+encrfgi 	搜索不	c=0 d=0.1 t=402
+encrftg 	后运行	c=0 d=0.1 t=1292
+encrfwt 	提示信息	c=0 d=0.1 t=1835
+encrgfg 	的环境下	c=0 d=0.1 t=1895
+encrgft 	的列才	c=0 d=0.1 t=1801
+encrgfu 	的环境	c=0 d=0.1 t=1894
+encrggg 	后一	c=0 d=0.1 t=1809
+encrgjb 	后最	c=0 d=0.1 t=1807
+encrgkh 	后跟	c=0 d=0.1 t=1716
+encrgsm 	的列相同	c=0 d=0.1 t=1796
+encrgtk 	的一种	c=0 d=0.1 t=1864
+encrgts 	后一条	c=0 d=0.1 t=1810
+encrhrq 	掉的	c=0 d=0.1 t=1699
+encribk 	拉满了啊	c=0 d=0.1 t=945
+encribn 	拉满了	c=0 d=0.1 t=944
+encrjbc 	提取	c=0 d=0.1 t=386
+encrjkt 	后影响	c=0 d=0.1 t=1430
+encrjmb 	批量删除	c=0 d=0.1 t=914
+encrjrg 	后最后	c=0 d=0.1 t=1808
+encrjrg 	后最后一	c=0 d=0.1 t=1809
+encrjwh 	的时候	c=0 d=0.1 t=781
+encrjyt 	打电话	c=0 d=0.1 t=695
+encrjyy 	打电话说	c=0 d=0.1 t=696
+encrklg 	的中国	c=0 d=0.1 t=351
+encrkot 	后跟应答	c=0 d=0.1 t=1717
+encrkth 	的品牌	c=0 d=0.1 t=667
+encrkto 	的品牌店	c=0 d=0.1 t=668
+encrlbm 	的输出	c=0 d=0.1 t=1850
+encrlgg 	返回一	c=0 d=0.1 t=1491
+encrlgt 	返回一条	c=0 d=0.1 t=1492
+encrlok 	返回序号	c=0 d=0.1 t=1744
+encrlro 	返回排序	c=0 d=0.1 t=1805
+encrlrq 	返回的	c=0 d=0.1 t=1566
+encrmpw 	的内容	c=0 d=0.1 t=1674
+encrmyp 	看见这	c=0 d=0.1 t=1811
+encrmys 	看见这样	c=0 d=0.1 t=1812
+encrnqk 	扩展名	c=0 d=0.1 t=1307
+encrnsu 	的那样	c=0 d=0.1 t=766
+encrnug 	的情况下	c=0 d=0.1 t=1507
+encrnuk 	的情况	c=0 d=0.1 t=1506
+encrnyu 	所以说	c=0 d=0.1 t=1401
+encrnyy 	接收方	c=0 d=0.1 t=1698
+encropb 	的数字	c=0 d=0.1 t=1759
+encrorg 	排序后	c=0 d=0.1 t=1806
+encrorj 	排序后最	c=0 d=0.1 t=1807
+encrorn 	的数据	c=0 d=0.1 t=1868
+encrort 	的数据行	c=0 d=0.1 t=1869
+encrpdc 	的密码	c=0 d=0.1 t=1289
+encrpsa 	指定格式	c=0 d=0.1 t=1844
+encrpsg 	指定格式	c=0 d=0.1 t=1844
+encrpyd 	挻实诚	c=0 d=0.1 t=1089
+encrqbn 	的也	c=0 d=0.1 t=1555
+encrqdn 	换成	c=0 d=0.1 t=719
+encrqgi 	排名不	c=0 d=0.1 t=1762
+encrqgq 	的列	c=0 d=0.1 t=1800
+encrqgs 	排名一样	c=0 d=0.1 t=1750
+encrqqn 	的包	c=0 d=0.1 t=1522
+encrqqq 	拼多多	c=0 d=0.1 t=609
+encrqqr 	拼多多的	c=0 d=0.1 t=639
+encrqtg 	的包管理	c=0 d=0.1 t=1523
+encrqth 	换镜片	c=0 d=0.1 t=496
+encrqud 	的券	c=0 d=0.1 t=715
+encrqwf 	的值	c=0 d=0.1 t=1484
+encrqww 	的人	c=0 d=0.1 t=1814
+encrqyj 	排名就是	c=0 d=0.1 t=1776
+encrqyl 	排名为	c=0 d=0.1 t=1771
+encrrbm 	的指出	c=0 d=0.1 t=1470
+encrrjg 	看看是	c=0 d=0.1 t=783
+encrrjg 	看看是不	c=0 d=0.1 t=784
+encrrqk 	的排名	c=0 d=0.1 t=1770
+encrrqy 	的排名为	c=0 d=0.1 t=1771
+encrrsw 	拆机	c=0 d=0.1 t=59
+encrrtg 	的执行	c=0 d=0.1 t=1954
+encrrtt 	的挡箭牌	c=0 d=0.1 t=959
+encrruk 	扫描端口	c=0 d=0.1 t=1662
+encrrvs 	白嫖	c=0 d=0.1 t=704
+encrslf 	后配置	c=0 d=0.1 t=1724
+encrslf 	的配置	c=0 d=0.1 t=1587
+encrssr 	的模板	c=0 d=0.1 t=1696
+encrstw 	提醒各位	c=0 d=0.1 t=776
+encrtad 	的各项	c=0 d=0.1 t=824
+encrtkh 	执行中	c=0 d=0.1 t=1855
+encrtrg 	执行后	c=0 d=0.1 t=1429
+encrtrq 	执行的	c=0 d=0.1 t=1729
+encrtsb 	执行权限	c=0 d=0.1 t=1739
+encrtya 	执行计划	c=0 d=0.1 t=1902
+encruia 	拉满	c=0 d=0.1 t=943
+encrukk 	的产品	c=0 d=0.1 t=1758
+encruky 	的产品为	c=0 d=0.1 t=1759
+encruqq 	拼多	c=0 d=0.1 t=654
+encruwf 	拉舍	c=0 d=0.1 t=491
+encruww 	的部份	c=0 d=0.1 t=1575
+encrvbn 	白嫖了	c=0 d=0.1 t=705
+encrvrq 	挺好的	c=0 d=0.1 t=303
+encrwqi 	拉舍尔	c=0 d=0.1 t=492
+encrwtb 	的优秀	c=0 d=0.1 t=829
+encrwtc 	的人很难	c=0 d=0.1 t=1815
+encrwtm 	投币	c=0 d=0.1 t=1818
+encrwyl 	的值为	c=0 d=0.1 t=1485
+encrxjs 	的结果	c=0 d=0.1 t=1567
+encryaj 	的计划	c=0 d=0.1 t=1945
+encryau 	的计划并	c=0 d=0.1 t=1946
+encryjg 	的变量	c=0 d=0.1 t=1854
+encryjy 	的变量就	c=0 d=0.1 t=1855
+encryny 	抗以	c=0 d=0.1 t=253
+encrywt 	的文件	c=0 d=0.1 t=1730
+encryww 	指望他们	c=0 d=0.1 t=251
+encsaiy 	模式测试	c=0 d=0.1 t=1665
+encsasg 	相匹配	c=0 d=0.1 t=1791
+encsavy 	桃花娘	c=0 d=0.1 t=1724
+encsawx 	格式化	c=0 d=0.1 t=1835
+encsbad 	李基	c=0 d=0.1 t=1027
+encsckj 	可能只是	c=0 d=0.1 t=1936
+encsepw 	想用空值	c=0 d=0.1 t=1464
+encsgiy 	模式测试	c=0 d=0.1 t=1665
+encsgph 	本官	c=0 d=0.1 t=772
+encsgpp 	要与之	c=0 d=0.1 t=1789
+encsgps 	要与之相	c=0 d=0.1 t=1790
+encsgus 	要更新	c=0 d=0.1 t=1798
+encsgwn 	树形分层	c=0 d=0.1 t=1829
+encsgwx 	格式化	c=0 d=0.1 t=1835
+encsheh 	想用	c=0 d=0.1 t=1463
+encshrq 	想的	c=0 d=0.1 t=765
+encsibd 	检法也成	c=0 d=0.1 t=1051
+encsibn 	检法也	c=0 d=0.1 t=1050
+encsigf 	相当于	c=0 d=0.1 t=1916
+encsigr 	相当于白	c=0 d=0.1 t=703
+encsinn 	样小心收	c=0 d=0.1 t=951
+encsiny 	样小心	c=0 d=0.1 t=950
+encsksk 	哥哥	c=0 d=0.1 t=1193
+encsldh 	配置在	c=0 d=0.1 t=1578
+encslss 	配置模板	c=0 d=0.1 t=1710
+encslvb 	配置好	c=0 d=0.1 t=1564
+encslyw 	配置文件	c=0 d=0.1 t=1588
+encsmjf 	相同时	c=0 d=0.1 t=1797
+encsmkg 	本账号	c=0 d=0.1 t=1420
+encsmok 	相同序号	c=0 d=0.1 t=1748
+encsmrq 	相同的	c=0 d=0.1 t=1758
+encsndh 	可以在	c=0 d=0.1 t=1960
+encsned 	可以用原	c=0 d=0.1 t=1439
+encsneh 	可以用	c=0 d=0.1 t=1438
+encsnyl 	可以为	c=0 d=0.1 t=1501
+encsnyp 	可以为穿	c=0 d=0.1 t=1502
+encspde 	柳家有	c=0 d=0.1 t=1178
+encspdy 	柳家有这	c=0 d=0.1 t=1179
+encspvj 	本官如果	c=0 d=0.1 t=773
+encsqpg 	柳家	c=0 d=0.1 t=1177
+encsrmp 	根据内容	c=0 d=0.1 t=1957
+encsrns 	想的那样	c=0 d=0.1 t=766
+encsrpg 	可指定	c=0 d=0.1 t=1843
+encsrpu 	棉裤	c=0 d=0.1 t=872
+encsrww 	样的人	c=0 d=0.1 t=1814
+encsseh 	要想用	c=0 d=0.1 t=1463
+encssoa 	机械炼	c=0 d=0.1 t=225
+encssoq 	机械炼金	c=0 d=0.1 t=226
+encsstg 	林行	c=0 d=0.1 t=1540
+encstdh 	植物大战	c=0 d=0.1 t=1386
+encsurq 	样的	c=0 d=0.1 t=1813
+encsvkn 	要叫	c=0 d=0.1 t=344
+encsvrq 	要的	c=0 d=0.1 t=904
+encsvsh 	要想	c=0 d=0.1 t=1462
+encsvwd 	要做	c=0 d=0.1 t=1152
+encswif 	检法	c=0 d=0.1 t=1049
+encswsp 	相信柳家	c=0 d=0.1 t=1177
+encswsq 	相信柳	c=0 d=0.1 t=1176
+encswtc 	要什么	c=0 d=0.1 t=1361
+enctaic 	各项游戏	c=0 d=0.1 t=817
+enctait 	长海	c=0 d=0.1 t=256
+enctaup 	各项判定	c=0 d=0.1 t=825
+enctbad 	和隐藏	c=0 d=0.1 t=1845
+enctcdg 	么硬	c=0 d=0.1 t=1181
+enctcgi 	很难不	c=0 d=0.1 t=1816
+enctcgr 	很难不投	c=0 d=0.1 t=1817
+enctckt 	入驻品牌	c=0 d=0.1 t=1755
+enctcrb 	我能提取	c=0 d=0.1 t=386
+enctcrj 	我能提	c=0 d=0.1 t=385
+enctdfc 	私有云	c=0 d=0.1 t=1807
+enctdpg 	先确定	c=0 d=0.1 t=1874
+enctduq 	第三次	c=0 d=0.1 t=717
+enctdur 	第三次换	c=0 d=0.1 t=718
+enctegj 	得办理	c=0 d=0.1 t=967
+enctfgi 	毛不	c=0 d=0.1 t=1906
+enctfid 	牌都没有	c=0 d=0.1 t=1220
+enctfqd 	自动解压	c=0 d=0.1 t=1336
+enctfuq 	第二次	c=0 d=0.1 t=707
+enctfuy 	第二次说	c=0 d=0.1 t=708
+enctgjq 	毛不易	c=0 d=0.1 t=1907
+enctgkc 	行吗	c=0 d=0.1 t=1373
+enctgkk 	管理器	c=0 d=0.1 t=1524
+enctgkw 	生只	c=0 d=0.1 t=1040
+enctgpw 	等于空值	c=0 d=0.1 t=1460
+enctgrq 	得到的	c=0 d=0.1 t=1288
+enctguq 	第一次	c=0 d=0.1 t=693
+enctgur 	第一次打	c=0 d=0.1 t=694
+enctgwg 	征途	c=0 d=0.1 t=1253
+enctgyh 	行让	c=0 d=0.1 t=743
+encthft 	牌都	c=0 d=0.1 t=1219
+encthqy 	自贸	c=0 d=0.1 t=128
+encthtf 	午睡毯	c=0 d=0.1 t=630
+enctieg 	长海县	c=0 d=0.1 t=257
+enctitj 	我觉得	c=0 d=0.1 t=1670
+enctkyl 	生只为	c=0 d=0.1 t=1041
+enctlty 	行输入	c=0 d=0.1 t=1825
+enctngc 	乐至	c=0 d=0.1 t=335
+enctorn 	条数据	c=0 d=0.1 t=1811
+enctorn 	行数据	c=0 d=0.1 t=1480
+enctoyw 	长度变化	c=0 d=0.1 t=1899
+enctplk 	我寄回	c=0 d=0.1 t=746
+enctplx 	我寄回给	c=0 d=0.1 t=747
+enctraw 	我花	c=0 d=0.1 t=1038
+enctrce 	我能	c=0 d=0.1 t=384
+enctrpd 	我寄	c=0 d=0.1 t=745
+enctrsg 	我提醒	c=0 d=0.1 t=775
+enctrsv 	我要	c=0 d=0.1 t=1151
+enctryk 	我就	c=0 d=0.1 t=1365
+enctryp 	我这	c=0 d=0.1 t=1186
+enctskg 	版本号	c=0 d=0.1 t=871
+enctswd 	我要做	c=0 d=0.1 t=1152
+encttft 	等等都	c=0 d=0.1 t=1903
+encttfw 	等等都会	c=0 d=0.1 t=1904
+encttlg 	怎么回事	c=0 d=0.1 t=429
+encttrq 	迁移的	c=0 d=0.1 t=409
+enctttt 	冬季毛毯	c=0 d=0.1 t=618
+encttug 	毛毯盖	c=0 d=0.1 t=619
+encttup 	毛毯盖被	c=0 d=0.1 t=620
+encttxe 	等等引用	c=0 d=0.1 t=1827
+encttyu 	怎么说	c=0 d=0.1 t=355
+encttyy 	筛选谓语	c=0 d=0.1 t=1858
+enctutm 	冬奥	c=0 d=0.1 t=1269
+enctvaj 	很蓝	c=0 d=0.1 t=1557
+enctvta 	第九特区	c=0 d=0.1 t=1164
+enctwdd 	第八套	c=0 d=0.1 t=488
+enctwne 	条件必须	c=0 d=0.1 t=1467
+enctwng 	各位买到	c=0 d=0.1 t=778
+enctwnu 	各位买	c=0 d=0.1 t=777
+enctwqk 	重命名	c=0 d=0.1 t=274
+enctwrd 	先假扮成	c=0 d=0.1 t=791
+enctwrw 	先假扮	c=0 d=0.1 t=790
+enctwtf 	条件先	c=0 d=0.1 t=1873
+enctxqn 	系统包	c=0 d=0.1 t=1736
+enctxqr 	系统包的	c=0 d=0.1 t=1737
+enctxts 	第条	c=0 d=0.1 t=1871
+enctxvt 	第九	c=0 d=0.1 t=1163
+enctxwt 	第八	c=0 d=0.1 t=487
+enctyfc 	行启动	c=0 d=0.1 t=1273
+enctymx 	重启网络	c=0 d=0.1 t=1294
+enctynx 	我就怀疑	c=0 d=0.1 t=1366
+enctytp 	行让我寄	c=0 d=0.1 t=745
+enctytr 	行让我	c=0 d=0.1 t=744
+encuauq 	并将	c=0 d=0.1 t=1671
+encubsw 	送耳机	c=0 d=0.1 t=134
+encudrb 	前面的也	c=0 d=0.1 t=1555
+encudrg 	前面的列	c=0 d=0.1 t=1795
+encudrq 	前面的	c=0 d=0.1 t=1794
+encudte 	将磁盘	c=0 d=0.1 t=1679
+encuemw 	瘦肉	c=0 d=0.1 t=198
+encufrd 	北真希	c=0 d=0.1 t=1615
+encugpu 	盖被	c=0 d=0.1 t=620
+encuhuh 	丫丫	c=0 d=0.1 t=1599
+encuide 	并没有	c=0 d=0.1 t=1947
+encuith 	前消息	c=0 d=0.1 t=1703
+encujlt 	背景图片	c=0 d=0.1 t=505
+encukbn 	产品了	c=0 d=0.1 t=691
+encukeh 	端口用	c=0 d=0.1 t=1663
+encuktt 	产品怎么	c=0 d=0.1 t=672
+encukwe 	端口使用	c=0 d=0.1 t=1550
+encukwt 	产品信息	c=0 d=0.1 t=1215
+encukyl 	产品为	c=0 d=0.1 t=1759
+encumog 	瘦肉精	c=0 d=0.1 t=199
+encupcn 	盖被双层	c=0 d=0.1 t=621
+encupdc 	将密码	c=0 d=0.1 t=1442
+encupvb 	将军好	c=0 d=0.1 t=528
+encuqgo 	竟然来	c=0 d=0.1 t=1120
+encuqwf 	将值	c=0 d=0.1 t=1864
+encusrq 	新的	c=0 d=0.1 t=1907
+encutbn 	装备了	c=0 d=0.1 t=1800
+encutbr 	装备了的	c=0 d=0.1 t=1801
+encutjg 	首先是	c=0 d=0.1 t=936
+encutsg 	状告本	c=0 d=0.1 t=771
+encutsp 	状告本官	c=0 d=0.1 t=772
+encutur 	产生新的	c=0 d=0.1 t=1907
+encutus 	产生新	c=0 d=0.1 t=1910
+encutxy 	准系统	c=0 d=0.1 t=311
+encuubn 	新闻了	c=0 d=0.1 t=50
+encuuwl 	并将传输	c=0 d=0.1 t=1672
+encuwbs 	部份也要	c=0 d=0.1 t=1576
+encuwlr 	将传输的	c=0 d=0.1 t=1673
+encuwlw 	将传输	c=0 d=0.1 t=1672
+encuwwj 	单人保暖	c=0 d=0.1 t=627
+encuwwx 	将值传给	c=0 d=0.1 t=1865
+encuxfh 	北真	c=0 d=0.1 t=1614
+encvbrq 	好的	c=0 d=0.1 t=1889
+encvfge 	退款不用	c=0 d=0.1 t=699
+encvfgi 	退款不	c=0 d=0.1 t=698
+encvfvf 	寻寻	c=0 d=0.1 t=1636
+encvgol 	建库	c=0 d=0.1 t=1706
+encvgtg 	如两行	c=0 d=0.1 t=1479
+encvgwh 	如两个	c=0 d=0.1 t=1765
+encvjde 	如果有	c=0 d=0.1 t=1569
+encvjgq 	如果列	c=0 d=0.1 t=1499
+encvjop 	如果数字	c=0 d=0.1 t=1746
+encvjtr 	如果我	c=0 d=0.1 t=774
+encvjtw 	如果条件	c=0 d=0.1 t=1488
+encvkgm 	如两	c=0 d=0.1 t=1478
+encvnbn 	刀了	c=0 d=0.1 t=1679
+encvoss 	建库模板	c=0 d=0.1 t=1707
+encvpuj 	婉音	c=0 d=0.1 t=87
+encvqdi 	好久感觉	c=0 d=0.1 t=45
+encvsbn 	嫖了	c=0 d=0.1 t=705
+encvtar 	九特区	c=0 d=0.1 t=1164
+encvvvf 	寻寻寻	c=0 d=0.1 t=1636
+encvwbn 	群体了	c=0 d=0.1 t=1054
+encvypd 	建议密码	c=0 d=0.1 t=1338
+encwarq 	优雅的	c=0 d=0.1 t=805
+encwbde 	他有	c=0 d=0.1 t=1368
+encwbyu 	他说	c=0 d=0.1 t=347
+encwcmu 	翁赚	c=0 d=0.1 t=1676
+encwcsw 	公检	c=0 d=0.1 t=1048
+encwdgg 	做一	c=0 d=0.1 t=661
+encwdrt 	代码执行	c=0 d=0.1 t=1428
+encwegg 	作用不到	c=0 d=0.1 t=1474
+encwegi 	作用不	c=0 d=0.1 t=1473
+encwehd 	使用上面	c=0 d=0.1 t=1286
+encwepy 	使用定义	c=0 d=0.1 t=1852
+encwewr 	人受伤的	c=0 d=0.1 t=1691
+encwewt 	人受伤	c=0 d=0.1 t=1690
+encwewt 	使用传入	c=0 d=0.1 t=1821
+encwfdf 	售卖三无	c=0 d=0.1 t=644
+encwfdg 	售卖三	c=0 d=0.1 t=643
+encwfqi 	舍尔	c=0 d=0.1 t=492
+encwfrq 	值的	c=0 d=0.1 t=1832
+encwfuq 	会将	c=0 d=0.1 t=1863
+encwfyl 	值为	c=0 d=0.1 t=1485
+encwgad 	做一期	c=0 d=0.1 t=662
+encwgad 	做一期在	c=0 d=0.1 t=663
+encwggo 	剑来	c=0 d=0.1 t=559
+encwggv 	今天开始	c=0 d=0.1 t=912
+encwgmf 	假一赔十	c=0 d=0.1 t=591
+encwgmu 	假一赔	c=0 d=0.1 t=590
+encwgoo 	余火	c=0 d=0.1 t=507
+encwgpy 	剑神	c=0 d=0.1 t=365
+encwgrq 	今天的	c=0 d=0.1 t=938
+encwgsl 	代理配置	c=0 d=0.1 t=1789
+encwgsr 	全棉	c=0 d=0.1 t=892
+encwgyp 	你再这	c=0 d=0.1 t=948
+encwgys 	你再这样	c=0 d=0.1 t=949
+encwhkw 	你瞅啥	c=0 d=0.1 t=1673
+encwide 	你没有	c=0 d=0.1 t=990
+encwidn 	你没有心	c=0 d=0.1 t=991
+encwisf 	父游标	c=0 d=0.1 t=1869
+encwjfi 	分显示	c=0 d=0.1 t=1843
+encwjft 	分显示和	c=0 d=0.1 t=1844
+encwjgg 	保暖珊瑚	c=0 d=0.1 t=628
+encwjgw 	但是两个	c=0 d=0.1 t=1454
+encwjkt 	假冒品牌	c=0 d=0.1 t=1205
+encwkdg 	保研	c=0 d=0.1 t=1618
+encwlrq 	传输的	c=0 d=0.1 t=1673
+encwmbn 	翁赚了	c=0 d=0.1 t=1677
+encwmbv 	翁赚了刀	c=0 d=0.1 t=1678
+encwnfi 	化展示	c=0 d=0.1 t=1836
+encwngg 	假一	c=0 d=0.1 t=589
+encwnpd 	修改密码	c=0 d=0.1 t=1436
+encwnsg 	修改本	c=0 d=0.1 t=1419
+encwnsy 	分层查询	c=0 d=0.1 t=1830
+encwpxu 	人家毕竟	c=0 d=0.1 t=757
+encwqgm 	你再	c=0 d=0.1 t=947
+encwqht 	你瞅	c=0 d=0.1 t=1672
+encwqrq 	你的	c=0 d=0.1 t=954
+encwqsh 	你想	c=0 d=0.1 t=764
+encwrdn 	假扮成	c=0 d=0.1 t=791
+encwrdx 	假扮成张	c=0 d=0.1 t=792
+encwror 	值的数据	c=0 d=0.1 t=1516
+encwrwx 	风华	c=0 d=0.1 t=242
+encwsib 	公检法也	c=0 d=0.1 t=1050
+encwsif 	公检法	c=0 d=0.1 t=1049
+encwsrq 	你想的	c=0 d=0.1 t=765
+encwtcg 	人很难不	c=0 d=0.1 t=1816
+encwtco 	传入参数	c=0 d=0.1 t=1822
+encwtcw 	人很难	c=0 d=0.1 t=1815
+encwtdd 	八套	c=0 d=0.1 t=488
+encwtgi 	什么正当	c=0 d=0.1 t=1362
+encwtjg 	什么是	c=0 d=0.1 t=503
+encwtnw 	信息收集	c=0 d=0.1 t=1839
+encwttb 	人冬季	c=0 d=0.1 t=617
+encwttc 	你怎么	c=0 d=0.1 t=428
+encwujg 	假装是	c=0 d=0.1 t=484
+encwujw 	假装是个	c=0 d=0.1 t=485
+encwuqd 	你竟然	c=0 d=0.1 t=1119
+encwuqg 	你竟然来	c=0 d=0.1 t=1120
+encwutg 	会产生	c=0 d=0.1 t=1905
+encwutu 	会产生新	c=0 d=0.1 t=1906
+encwuwf 	会将值	c=0 d=0.1 t=1864
+encwvrg 	登录后	c=0 d=0.1 t=1291
+encwwbn 	价了	c=0 d=0.1 t=1036
+encwwde 	你们有	c=0 d=0.1 t=876
+encwwde 	你们有加	c=0 d=0.1 t=877
+encwwfw 	从零	c=0 d=0.1 t=222
+encwwgd 	从今天	c=0 d=0.1 t=911
+encwwrn 	他们抗以	c=0 d=0.1 t=253
+encwwry 	他们抗	c=0 d=0.1 t=252
+encwwtg 	命令行	c=0 d=0.1 t=1824
+encwwut 	何人状告	c=0 d=0.1 t=770
+encwwxa 	从红	c=0 d=0.1 t=138
+encwwxc 	人经	c=0 d=0.1 t=1077
+encwwxw 	值传给	c=0 d=0.1 t=1865
+encwwyk 	人就	c=0 d=0.1 t=245
+encwxee 	从红月	c=0 d=0.1 t=139
+encwxyl 	华为	c=0 d=0.1 t=1205
+encwyhh 	停止	c=0 d=0.1 t=1528
+encwyjg 	值就是	c=0 d=0.1 t=1451
+encwykh 	人就跟	c=0 d=0.1 t=246
+encwytw 	作为条件	c=0 d=0.1 t=1466
+encwyyj 	作为变量	c=0 d=0.1 t=1830
+encxaee 	红月	c=0 d=0.1 t=139
+encxedj 	绒加厚	c=0 d=0.1 t=879
+encxedr 	绒加厚的	c=0 d=0.1 t=880
+encxgmd 	统一内存	c=0 d=0.1 t=463
+encxgmp 	比亚迪	c=0 d=0.1 t=1095
+encxjvj 	结果如果	c=0 d=0.1 t=1568
+encxjwy 	结果集	c=0 d=0.1 t=1887
+encxmbn 	母赚了	c=0 d=0.1 t=1685
+encxpyj 	绑定变量	c=0 d=0.1 t=1873
+encxqdw 	绝秦	c=0 d=0.1 t=1282
+encxqtg 	继银行	c=0 d=0.1 t=1045
+encxqtr 	继银行后	c=0 d=0.1 t=1046
+encxrvw 	弱势群体	c=0 d=0.1 t=1053
+encxswy 	结构集	c=0 d=0.1 t=1852
+encxtdg 	张三	c=0 d=0.1 t=793
+encxudi 	缓冲大小	c=0 d=0.1 t=1855
+encxujg 	毕竟是	c=0 d=0.1 t=758
+encxuwg 	终端代理	c=0 d=0.1 t=1210
+encxwwq 	给你	c=0 d=0.1 t=1625
+encxxgo 	比亚	c=0 d=0.1 t=1094
+encxyde 	统计有	c=0 d=0.1 t=1513
+encxydw 	统计有值	c=0 d=0.1 t=1514
+encxywt 	统计信息	c=0 d=0.1 t=1914
+encyabm 	计划出	c=0 d=0.1 t=1938
+encyagc 	计划不能	c=0 d=0.1 t=1903
+encyasr 	计划根据	c=0 d=0.1 t=1956
+encyaua 	计划并	c=0 d=0.1 t=1946
+encyaya 	试试	c=0 d=0.1 t=919
+encyayg 	试试	c=0 d=0.1 t=919
+encybgo 	说出来	c=0 d=0.1 t=356
+encycbn 	就对了	c=0 d=0.1 t=1406
+encydfq 	为三无	c=0 d=0.1 t=1760
+encyfgi 	这真不	c=0 d=0.1 t=678
+encyfuj 	永无间	c=0 d=0.1 t=101
+encygfa 	永不过期	c=0 d=0.1 t=1447
+encygxw 	说再给	c=0 d=0.1 t=710
+encygya 	试试	c=0 d=0.1 t=919
+encygyg 	试试	c=0 d=0.1 t=919
+encyhtr 	让我	c=0 d=0.1 t=744
+encyica 	这游戏	c=0 d=0.1 t=1159
+encyicb 	这游戏也	c=0 d=0.1 t=1160
+encyjje 	刘明	c=0 d=0.1 t=1905
+encyjpw 	就是空值	c=0 d=0.1 t=1452
+encyjqk 	变量名	c=0 d=0.1 t=1875
+encyjto 	变量长度	c=0 d=0.1 t=1898
+encyjwf 	变量值	c=0 d=0.1 t=1831
+encyjwq 	就是你	c=0 d=0.1 t=763
+encyjwr 	变量值的	c=0 d=0.1 t=1832
+encyjws 	就是你想	c=0 d=0.1 t=764
+encyjyk 	变量就	c=0 d=0.1 t=1855
+encykcf 	就对	c=0 d=0.1 t=1405
+encykgd 	遍啊一百	c=0 d=0.1 t=289
+encykig 	高清	c=0 d=0.1 t=40
+encykkh 	就跟	c=0 d=0.1 t=246
+encyknl 	就跟民国	c=0 d=0.1 t=247
+encylpw 	为穿	c=0 d=0.1 t=1502
+encylxf 	为连续	c=0 d=0.1 t=1779
+encylxr 	为连续的	c=0 d=0.1 t=1780
+encylyl 	设置为	c=0 d=0.1 t=1444
+encylyn 	为永	c=0 d=0.1 t=1445
+encylyy 	设置为永	c=0 d=0.1 t=1445
+encynfq 	永无	c=0 d=0.1 t=100
+encyngi 	永不	c=0 d=0.1 t=1446
+encynkb 	遍啊	c=0 d=0.1 t=288
+encynnu 	讯飞	c=0 d=0.1 t=853
+encynsg 	记本	c=0 d=0.1 t=1014
+encynxt 	就怀疑	c=0 d=0.1 t=1366
+encynxw 	就怀疑他	c=0 d=0.1 t=1367
+encypfh 	这真	c=0 d=0.1 t=677
+encypsu 	这样	c=0 d=0.1 t=1812
+encyptc 	这么	c=0 d=0.1 t=1180
+encyptv 	这很	c=0 d=0.1 t=1556
+encysin 	这样小心	c=0 d=0.1 t=950
+encysrq 	这样的	c=0 d=0.1 t=1813
+encysrw 	这样的人	c=0 d=0.1 t=1814
+encytaj 	这很蓝	c=0 d=0.1 t=1557
+encytdg 	这么硬	c=0 d=0.1 t=1181
+encytpd 	让我寄	c=0 d=0.1 t=745
+encytpl 	让我寄回	c=0 d=0.1 t=746
+encytrq 	计算排名	c=0 d=0.1 t=1756
+encytxj 	放入结果	c=0 d=0.1 t=1886
+encyugm 	说再	c=0 d=0.1 t=709
+encyujg 	说是	c=0 d=0.1 t=740
+encyuyy 	访问谓语	c=0 d=0.1 t=1856
+encyvff 	说退款	c=0 d=0.1 t=697
+encyvfg 	说退款不	c=0 d=0.1 t=698
+encywak 	文件或	c=0 d=0.1 t=1540
+encywfd 	变化过大	c=0 d=0.1 t=1901
+encywfp 	变化过	c=0 d=0.1 t=1900
+encywgl 	文件静默	c=0 d=0.1 t=1687
+encywkh 	文件中	c=0 d=0.1 t=1818
+encywkt 	文件路径	c=0 d=0.1 t=1719
+encywqw 	文件包含	c=0 d=0.1 t=1731
+encywtg 	文件重	c=0 d=0.1 t=273
+encyxjb 	详细时也	c=0 d=0.1 t=1678
+encyxjf 	详细时	c=0 d=0.1 t=1677
+encyxyo 	离线词库	c=0 d=0.1 t=267
+encyyar 	语言区	c=0 d=0.1 t=1668
+encyygd 	文天	c=0 d=0.1 t=1638
+encyygi 	为永不	c=0 d=0.1 t=1446
+encyyrh 	试试看	c=0 d=0.1 t=1891
+encyyrw 	这主持人	c=0 d=0.1 t=1726
