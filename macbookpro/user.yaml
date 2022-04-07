@@ -1,7 +1,9 @@
 var:
-  last_build_time: 1647008327
+  last_build_time: 1649317982
   previously_selected_schema: wubixinshiji
   schema_access_time:
+    emoji: 1649308816
     luna_pinyin_simp: 1636259914
     stroke: 1636259241
-    wubixinshiji: 1636260474
+    wubixinshiji: 1649317637
+    wubixinshiji_trad: 1649311551
