@@ -3,3 +3,5 @@ patch:
   "recognizer/patterns/punct": "^/([A-Z|a-z]*|[0-9]|10)$"
   "punctuator/half_shape" :
     "`": "`"
+  "translator/max_phrase_length" : 20
+  "translator/enable_user_dict" : true
