@@ -3,5 +3,5 @@ patch:
   "recognizer/patterns/punct": "^/([A-Z|a-z]*|[0-9]|10)$"
   "punctuator/half_shape" :
     "`": "`"
-  "translator/max_phrase_length" : 20
-  "translator/enable_user_dict" : true
+  "translator/max_phrase_length" : 20 ##不限制自造词的代码长度，4的话太长的词组就记录不上
+  "translator/enable_user_dict" : true ##记录用户自造词词频
