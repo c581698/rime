@@ -2,6 +2,9 @@ patch:
 #  show_notifications_when: never
   style:
     color_scheme: Isle
+  # Info.plist->CFBundleIdentifier
+  app_options/com.jetbrains.intellij:
+        ascii_mode: true
   preset_color_schemes:
     apathy:
       author: "LIANG Hai"

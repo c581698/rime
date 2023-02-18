@@ -1,7 +1,8 @@
 distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
-distribution_version: 0.15.2
+distribution_version: 0.16.2
 install_time: "Sun Nov  7 12:03:38 2021"
-installation_id: "macbookpro"
-rime_version: 1.7.3
+installation_id: macbookpro
+rime_version: 1.8.5
 sync_dir: "/Users/dinner/Documents/VScode/rime"
+update_time: "Mon Feb  6 22:51:13 2023"
